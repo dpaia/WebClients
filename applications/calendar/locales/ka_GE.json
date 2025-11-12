@@ -962,6 +962,18 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "თქვენი კომპიუტერის აპის უფასო სატესტო ვერსიის დასრულების დროა ${ formattedEndDate }. ${ upgradeButton }"
+      ],
+      "Confirm booking": [
+        "ჯავშნის დადასტურება"
+      ],
+      "Copy link and close": [
+        "ბმულის კოპირება და დახურვა"
+      ],
+      "Remove the booking range": [
+        "დაჯავშნის შუალედის წაშლა"
+      ],
+      "Split current booking range": [
+        "მიმდინარე დაჯავშნის შუალედის გაყოფა"
       ]
     },
     "action": {
@@ -3167,6 +3179,9 @@
       ],
       "You’ve already created 10 aliases. Get unlimited aliases and 500 GB of storage with ${ BRAND_NAME } Unlimited.": [
         "თქვენ უკვე შექმენით 10 ფსევდონიმი. მიიღეთ განუსაზღვრელი ფსევდონიმები და 500 გბ საცავი ${ BRAND_NAME } Unlimited-თან ერთად."
+      ],
+      "You’ll get a secure email with the details shortly.": [
+        "თქვენ მალე მიიღებთ დაცულ ელფოსტას დეტალებით."
       ]
     },
     "description": {
@@ -3991,6 +4006,12 @@
       ],
       "ZIP code is required": [
         "საფოსტო კოდი აუცილებელია"
+      ],
+      "Content verification failed": [
+        "შემცველობის გადამოწმება ჩავარდა"
+      ],
+      "No booking page data received": [
+        "ჯავშნის გვერდის მონაცემები მიღებული არაა"
       ]
     },
     "error": {
@@ -6263,6 +6284,25 @@
       ],
       "You’ll lose access to ${ boldPlanTitle } on ${ boldEndDate }.": [
         "დაკარგავთ წვდომას ${ boldPlanTitle }-სთან. თარიღი: ${ boldEndDate }."
+      ],
+      "Booking already exists.": [
+        "ჯავშანი უკვე არსებობს."
+      ],
+      "Booking cannot be added in the past.": [
+        "ჯავშნის წარსულში დამატება შეუძლებელია."
+      ],
+      "Booking overlaps with an existing booking.": [
+        "დაჯავშნა კონფლიქტშია არსებულ ჯავშანთან."
+      ],
+      "Saving event": [
+        "მოვლენების შენახვა",
+        "მოვლენების შენახვა"
+      ],
+      "When are you free?": [
+        "როდის ბრძანდებით თავისუფალი?"
+      ],
+      "You can’t have more than ${ MAX_BOOKING_SLOTS } booking slots on a page.": [
+        "ერთ გვერდზე ${ MAX_BOOKING_SLOTS }-ზე მეტი ჯავშანი ვერ გექნებათ."
       ]
     },
     "info": {
@@ -7107,6 +7147,9 @@
       ],
       "What’s this?": [
         "რა არის ეს?"
+      ],
+      "Reactivate subscription": [
+        "გამოწერის ხელახლა გააქტიურება"
       ]
     },
     "Link label (optional)": {
@@ -9462,6 +9505,9 @@
       ],
       "your subscription": [
         "თქვენი გამოწერა"
+      ],
+      "Last chance to explore all the powerful features that **${ planTitle }** has to offer.": [
+        "ბოლო შანსი, დაათვალიეროთ ყველა მძლავრი ფუნქცია, რომელსაც **${ planTitle }** გთავაზობთ."
       ]
     },
     "Reload event button tooltip": {
@@ -10195,6 +10241,12 @@
       ],
       "You’ll lose access to unlimited logins and notes, unlimited hide-my-email aliases, 20 vaults, as well as priority support.": [
         "დაკარგავთ წვდომას შეუზღუდავ შესვლის დეტალებთან და შენიშვნებთან, შეუზღუდავ hide-my-email-ის ფსევდონიმებთან, 20 საცავთან და პრიორიტეტულ ხარდაჭერასთან."
+      ],
+      "${ app } storage used": [
+        "${ app } გამოყენებული საცავი"
+      ],
+      "Storage used": [
+        "გამოყენებული საცავი"
       ]
     },
     "Subscribe to calendar modal": {
@@ -11664,6 +11716,15 @@
       ],
       "Your shorter address is now ready": [
         "თქვენი მოკლე მისამართი ახლა მზადაა"
+      ],
+      "Discard changes?": [
+        "ცვლილებების გაუქმება?"
+      ],
+      "Host": [
+        "ჰოსტი"
+      ],
+      "Your booking is confirmed": [
+        "თქვენი ჯავშანი დადასტურებულია"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -12228,6 +12289,28 @@
       ],
       "Passcode:": [
         "საკვანძო კოდი:"
+      ]
+    },
+    "Autocomplete": {
+      "${ hiddenResultsCount } more result not shown": [
+        "ნაჩვენები არაა კიდევ ${ hiddenResultsCount } შედეგი",
+        "ნაჩვენები არაა კიდევ ${ hiddenResultsCount } შედეგი"
+      ]
+    },
+    "Form": {
+      "Your contact info": [
+        "თქვენი საკონტაქტო ინფორმაცია"
+      ]
+    },
+    "label": {
+      "Date of the booking range": [
+        "დაჯავშნის შუალედის თარიღი"
+      ],
+      "End time of the booking range": [
+        "დაჯავშნის შუალედის დასრულების დრო"
+      ],
+      "Start time of the booking range": [
+        "დაჯავშნის შუალედის დასაწყისის დრო"
       ]
     }
   }

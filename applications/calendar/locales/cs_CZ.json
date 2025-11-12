@@ -982,6 +982,21 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "Bezplatná zkušební verze desktopové aplikace končí dne ${ formattedEndDate }. ${ upgradeButton }"
+      ],
+      "Add a date": [
+        "Přidat datum"
+      ],
+      "Close sidebar": [
+        "Zavřít postranní panel"
+      ],
+      "Copy booking page link": [
+        "Kopírovat odkaz na rezervační stránku"
+      ],
+      "Delete booking page": [
+        "Smazat rezervační stránku"
+      ],
+      "Edit booking page": [
+        "Upravit rezervační stránku"
       ]
     },
     "action": {
@@ -1982,6 +1997,9 @@
       ],
       "High-speed chats and advanced AI features.": [
         "Velmi rychlé konverzace a pokročilé funkce AI."
+      ],
+      "Advanced account and network security in one plan": [
+        "Pokročilé zabezpečení účtu a sítě v jednom tarifu"
       ]
     },
     "colon": {
@@ -6618,6 +6636,33 @@
       ],
       "You’ll still be able to view your own account data, but all user accounts will be removed from your organization.": [
         "Stále budete moci prohlížet data vlastního účtu, ale všechny uživatelské účty budou z vaší organizace odebrány."
+      ],
+      "${ MEET_APP_NAME } video call": [
+        "Videohovor ${ MEET_APP_NAME }"
+      ],
+      "Appointment duration": [
+        "Doba trvání schůzky"
+      ],
+      "Cannot create booking range across days": [
+        "Nelze vytvořit rozsah rezervace přesahující několik dní"
+      ],
+      "Host": [
+        "Hostitel"
+      ],
+      "Location": [
+        "Umístění"
+      ],
+      "Manange booking page": [
+        "Spravovat rezervační stránku"
+      ],
+      "Powered by ${ protonButton }": [
+        "Poháněno ${ protonButton }"
+      ],
+      "Privacy by default": [
+        "Soukromí především"
+      ],
+      "You will loose all unsaved changes.": [
+        "Ztratíte všechny neuložené změny."
       ]
     },
     "info": {
@@ -7485,6 +7530,9 @@
       ],
       "What’s this?": [
         "Co je to?"
+      ],
+      "Reactivate subscription": [
+        "Znovu aktivovat předplatné"
       ]
     },
     "Link label (optional)": {
@@ -8386,6 +8434,15 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Prohledáváme dark web a kontrolujeme, zda nedošlo k úniku vašich adres nebo aliasů ${ BRAND_NAME }, pokud něco najdeme, okamžitě vás upozorníme."
+      ],
+      "Existing ${ PLAN_NAMES[PLANS.VPN_BUSINESS] } benefits": [
+        "Stávající výhody tarifu ${ PLAN_NAMES[PLANS.VPN_BUSINESS] }"
+      ],
+      "Vault sharing with up to ${ n } person": [
+        "Sdílení trezoru s ${ n } osobou",
+        "Sdílení trezoru až se ${ n } osobami",
+        "Sdílení trezoru až s ${ n } osobami",
+        "Sdílení trezoru až s ${ n } osobami"
       ]
     },
     "new_plans: feature highlight": {
@@ -10063,6 +10120,9 @@
       ],
       "your subscription": [
         "vaše předplatné"
+      ],
+      "After that date, your account will be downgraded to **${ BRAND_NAME } Free**. If you change your mind, you can **reactivate your subscription** to keep access to premium features.": [
+        "Po tomto datu bude váš účet převeden na **${ BRAND_NAME } Free**. Pokud si to rozmyslíte, můžete **znovu aktivovat předplatné** a zachovat si přístup k prémiovým funkcím."
       ]
     },
     "Reload event button tooltip": {
@@ -10835,6 +10895,9 @@
       ],
       "You’ll lose access to unlimited logins and notes, unlimited hide-my-email aliases, 20 vaults, as well as priority support.": [
         "Ztratíte přístup k neomezeným přihlášením a poznámkám, neomezeným hide-my-email adresám, 20 trezorům a prioritní podpoře."
+      ],
+      "${ app } storage used": [
+        "${ app } úložiště využito"
       ]
     },
     "Subscribe to calendar modal": {
@@ -12376,6 +12439,12 @@
       ],
       "Your shorter address is now ready": [
         "Vaše kratší adresa je nyní připravena"
+      ],
+      "Appointment details": [
+        "Detaily schůzky"
+      ],
+      "Discard changes?": [
+        "Zahodit změny?"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -13037,6 +13106,23 @@
       ],
       "Passcode:": [
         "Přístupový kód:"
+      ]
+    },
+    "Payments.ModificationWarning": {
+      "Are you sure you want to proceed?": [
+        "Určitě chcete pokračovat?"
+      ],
+      "If you choose to modify your ${ planTitle } plan, you may lose access to some features.": [
+        "Pokud se rozhodnete upravit váš ${ planTitle } tarif, můžete ztratit přístup k některým funkcím."
+      ],
+      "Keep ${ planTitle }": [
+        "Ponechat ${ planTitle }"
+      ],
+      "Yes, I'm sure": [
+        "Ano, jsem si jistý"
+      ],
+      "Your plan includes this feature already.": [
+        "Váš tarif již zahrnuje tuto funkci."
       ]
     }
   }

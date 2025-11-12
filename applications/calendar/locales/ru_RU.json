@@ -11308,6 +11308,9 @@
       ],
       "Your shorter address is now ready": [
         "Ваш укороченный адрес готов"
+      ],
+      "Discard changes?": [
+        "Сбросить изменения?"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {

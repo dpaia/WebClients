@@ -965,6 +965,18 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "Bilgisayar uygulamasını ücretsiz deneme süreniz ${ formattedEndDate } tarihinde sona erecek. ${ upgradeButton }"
+      ],
+      "Add a date": [
+        "Bir tarih ekleyin"
+      ],
+      "Copy link and close": [
+        "Bağlantıyı kopyala ve kapat"
+      ],
+      "Remove the booking range": [
+        "Rezervasyon aralığını kaldır"
+      ],
+      "Split current booking range": [
+        "Geçerli rezervasyon aralığını böl"
       ]
     },
     "action": {
@@ -3203,6 +3215,9 @@
       ],
       "You’ve already created 10 aliases. Get unlimited aliases and 500 GB of storage with ${ BRAND_NAME } Unlimited.": [
         "Zaten 10 takma ad oluşturmuşsunuz. Sınırsız sayıda takma ad oluşturabilmek ve 500 GB depolama alanı edinmek için ${ BRAND_NAME } Limited tarifesine geçin."
+      ],
+      "You’ll get a secure email with the details shortly.": [
+        "Kısa bir süre sonra ayrıntıların bulunduğu bir güvenli e-posta alacaksınız."
       ]
     },
     "description": {
@@ -4038,6 +4053,12 @@
       ],
       "ZIP code is required": [
         "Posta kodunun yazılması zorunludur"
+      ],
+      "Content verification failed": [
+        "İçerik doğrulanamadı"
+      ],
+      "No booking page data received": [
+        "Herhangi bir rezervasyon sayfası verisi alınamadı."
       ]
     },
     "error": {
@@ -6397,6 +6418,28 @@
       ],
       "You’ll still be able to view your own account data, but all user accounts will be removed from your organization.": [
         "Kendi hesap bilgilerinizi görmeyi sürdürebileceksiniz. Ancak kuruluşunuzun tüm kullanıcı hesapları silinecek."
+      ],
+      "${ MEET_APP_NAME } video call": [
+        "${ MEET_APP_NAME } görüntülü araması"
+      ],
+      "Booking cannot be added in the past.": [
+        "Rezervasyon geçmiş bir tarihe eklenemez."
+      ],
+      "Booking overlaps with an existing booking.": [
+        "Rezervasyon var olan bir rezervasyonla çakışıyor."
+      ],
+      "Saving event": [
+        "Etkinlik kaydediliyor",
+        "Etkinlikler kaydediliyor"
+      ],
+      "Share this page to let others book time in your calendar. You can manage it anytime in the sidebar under Booking pages.": [
+        "Başkalarının takviminizden zaman ayırmasına izin vermek için bu sayfayı paylaşın. İstediğiniz zaman kenar çubuğundaki Rezervasyon sayfaları altından yönetebilirsiniz."
+      ],
+      "When are you free?": [
+        "Ne zaman uygunsunuz?"
+      ],
+      "You can’t have more than ${ MAX_BOOKING_SLOTS } booking slots on a page.": [
+        "Bir sayfada ${ MAX_BOOKING_SLOTS } taneden fazla rezervasyon alanı bulunamaz."
       ]
     },
     "info": {
@@ -7241,6 +7284,9 @@
       ],
       "What’s this?": [
         "Bu nedir?"
+      ],
+      "Reactivate subscription": [
+        "Aboneliği yeniden etkinleştir"
       ]
     },
     "Link label (optional)": {
@@ -9673,6 +9719,9 @@
       ],
       "your subscription": [
         "aboneliğiniz"
+      ],
+      "After that date, your account will be downgraded to **${ BRAND_NAME } Free**. If you change your mind, you can **reactivate your subscription** to keep access to premium features.": [
+        "Bu tarihten sonra, hesabınız **${ BRAND_NAME } Free** tarifesine düşürülecek. Fikrinizi değiştirirseniz, ücretli özelliklere erişmeyi sürdürmek için **aboneliğinizi yeniden etkinleştirebilirsiniz**."
       ]
     },
     "Reload event button tooltip": {
@@ -10406,6 +10455,12 @@
       ],
       "You’ll lose access to unlimited logins and notes, unlimited hide-my-email aliases, 20 vaults, as well as priority support.": [
         "Sınırsız oturum açma kaydı ve notlara, sınırsız hide-my-email takma adına, 20 kasaya ve öncelikli desteğe erişiminizi kaydedeceksiniz."
+      ],
+      "${ app } storage used": [
+        "${ app } depolama alanı kullanıldı"
+      ],
+      "Storage used": [
+        "Kullanılan depolama alanı"
       ]
     },
     "Subscribe to calendar modal": {
@@ -11881,6 +11936,15 @@
       ],
       "Your shorter address is now ready": [
         "Daha kısa adresiniz hazır"
+      ],
+      "Discard changes?": [
+        "Değişiklikler silinsin mi?"
+      ],
+      "Host": [
+        "Sunucu"
+      ],
+      "Your booking is confirmed": [
+        "Rezervasyonunuz onaylandı"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -12454,6 +12518,28 @@
       ],
       "Passcode:": [
         "Parola:"
+      ]
+    },
+    "Autocomplete": {
+      "${ hiddenResultsCount } more result not shown": [
+        "Görüntülenmeyen ${ hiddenResultsCount } sonuç daha var",
+        "Görüntülenmeyen ${ hiddenResultsCount } sonuç daha var"
+      ]
+    },
+    "Form": {
+      "Your contact info": [
+        "İletişim bilgileriniz"
+      ]
+    },
+    "label": {
+      "Date of the booking range": [
+        "Rezervasyon aralığının tarihi"
+      ],
+      "End time of the booking range": [
+        "Rezervasyon aralığının bitiş saati"
+      ],
+      "Start time of the booking range": [
+        "Rezervasyon aralığının başlangıç saati"
       ]
     }
   }

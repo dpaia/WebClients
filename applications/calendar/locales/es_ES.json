@@ -974,6 +974,12 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "Tu prueba gratuita de la aplicación de escritorio finaliza en ${ formattedEndDate }. ${ upgradeButton }"
+      ],
+      "Add a date": [
+        "Agregar una fecha"
+      ],
+      "Close sidebar": [
+        "Cerrar la barra lateral"
       ]
     },
     "action": {
@@ -6448,6 +6454,12 @@
       ],
       "You’ll still be able to view your own account data, but all user accounts will be removed from your organization.": [
         "Podrás seguir viendo los datos de tu propia cuenta, pero todas las cuentas de usuario serán eliminadas de tu organización."
+      ],
+      "Cannot create booking range across days": [
+        "No puedes crear un rango de reserva que abarque varios días."
+      ],
+      "You will loose all unsaved changes.": [
+        "Perderás todos los cambios no guardados."
       ]
     },
     "info": {
@@ -7303,6 +7315,9 @@
       ],
       "What’s this?": [
         "¿Qué es esto?"
+      ],
+      "Reactivate subscription": [
+        "Reactivar la suscripción"
       ]
     },
     "Link label (optional)": {
@@ -9735,6 +9750,9 @@
       ],
       "your subscription": [
         "tu suscripción"
+      ],
+      "After that date, your account will be downgraded to **${ BRAND_NAME } Free**. If you change your mind, you can **reactivate your subscription** to keep access to premium features.": [
+        "Después de esa fecha, tu cuenta pasará al plan inferior **${ BRAND_NAME } Gratuito**. Si cambias de opinión, puedes **reactivar tu suscripción** para mantener el acceso a las funciones prémium."
       ]
     },
     "Reload event button tooltip": {
@@ -10468,6 +10486,12 @@
       ],
       "You’ll lose access to unlimited logins and notes, unlimited hide-my-email aliases, 20 vaults, as well as priority support.": [
         "Perderás acceso a notas e inicios de sesión ilimitados, alias ilimitados de hide-my-email y 20 bóvedas así como al soporte prioritario."
+      ],
+      "${ app } storage used": [
+        "${ app } de almacenamiento utilizado"
+      ],
+      "Storage used": [
+        "Almacenamiento utilizado"
       ]
     },
     "Subscribe to calendar modal": {
@@ -11949,6 +11973,9 @@
       ],
       "Your shorter address is now ready": [
         "Tu dirección en formato más corto ya está lista."
+      ],
+      "Discard changes?": [
+        "¿Descartar los cambios?"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {

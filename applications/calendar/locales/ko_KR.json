@@ -11665,6 +11665,9 @@
       ],
       "Your shorter address is now ready": [
         "짧은 주소가 준비되었습니다"
+      ],
+      "Discard changes?": [
+        "변경 사항을 취소할까요?"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {

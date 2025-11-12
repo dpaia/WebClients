@@ -982,6 +982,21 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "Ваш бясплатны пробны перыяд праграмы для камп'ютара завершыцца ${ formattedEndDate }. ${ upgradeButton }"
+      ],
+      "Add a date": [
+        "Дадаць дату"
+      ],
+      "Close sidebar": [
+        "Закрыць бакавую панэль"
+      ],
+      "Copy booking page link": [
+        "Скапіяваць спасылку на старонку браніравання"
+      ],
+      "Delete booking page": [
+        "Выдаліць старонку браніравання"
+      ],
+      "Edit booking page": [
+        "Рэдагаваць старонку браніравання"
       ]
     },
     "action": {
@@ -6618,6 +6633,18 @@
       ],
       "You’ll still be able to view your own account data, but all user accounts will be removed from your organization.": [
         "Вы ўсё яшчэ зможаце праглядаць даныя свайго ўласнага ўліковага запісу, але ўсе ўліковыя запісы карыстальнікаў будуць выдалены з вашай арганізацыі."
+      ],
+      "${ MEET_APP_NAME } video call": [
+        "Відэазванок ${ MEET_APP_NAME }"
+      ],
+      "Cannot create booking range across days": [
+        "Немагчыма стварыць дыяпазон браніравання на некалькі дзён"
+      ],
+      "Manange booking page": [
+        "Кіраваць старонкай браніравання"
+      ],
+      "You will loose all unsaved changes.": [
+        "Вы страціце ўсе незахаваныя змены."
       ]
     },
     "info": {
@@ -7485,6 +7512,9 @@
       ],
       "What’s this?": [
         "Што гэта?"
+      ],
+      "Reactivate subscription": [
+        "Паўторная актывацыя падпіскі"
       ]
     },
     "Link label (optional)": {
@@ -8386,6 +8416,12 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Наша сістэма сканіруе цёмную сетку для праверкі на прадмет уцечкі адрасоў і псеўданімаў ${ BRAND_NAME }. Вы неадкладна будзеце апавешчаны ў выпадку, калі нешта будзе выяўлена."
+      ],
+      "Vault sharing with up to ${ n } person": [
+        "Абагуленае сховішча (да ${ n } асобы)",
+        "Абагуленае сховішча (да ${ n } асоб)",
+        "Абагуленае сховішча (да ${ n } асоб)",
+        "Абагуленае сховішча (да ${ n } асоб)"
       ]
     },
     "new_plans: feature highlight": {
@@ -10063,6 +10099,9 @@
       ],
       "your subscription": [
         "ваша падпіска"
+      ],
+      "After that date, your account will be downgraded to **${ BRAND_NAME } Free**. If you change your mind, you can **reactivate your subscription** to keep access to premium features.": [
+        "Пасля гэтай даты ваш уліковы запіс будзе паніжаны да ўзроўню **${ BRAND_NAME } Free**. Калі вы перадумаеце, вы можаце **паўторна актываваць сваю падпіску**, каб захаваць доступ да прэміяльных функцый."
       ]
     },
     "Reload event button tooltip": {
@@ -10832,6 +10871,12 @@
       ],
       "You’ll lose access to unlimited logins and notes, unlimited hide-my-email aliases, 20 vaults, as well as priority support.": [
         "Вы згубіце доступ да наступных функцый: неабмежаваную колькасць запісаў уваходу і нататак; неабмежаваную колькасць псеўданімаў hide-my-email; 20 сховішчаў; прыярытэтную падтрымку."
+      ],
+      "${ app } storage used": [
+        "Выкарыстана сховішча ${ app }"
+      ],
+      "Storage used": [
+        "Выкарыстана сховішча"
       ]
     },
     "Subscribe to calendar modal": {
@@ -12373,6 +12418,9 @@
       ],
       "Your shorter address is now ready": [
         "Ваш больш кароткі адрас гатовы да выкарыстання"
+      ],
+      "Discard changes?": [
+        "Адхіліць змены?"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {

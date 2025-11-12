@@ -969,6 +969,30 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "Perioada de încercare a versiunii pentru desktop se încheie ${ formattedEndDate }. ${ upgradeButton }"
+      ],
+      "Add a date": [
+        "Adăugare dată"
+      ],
+      "Close sidebar": [
+        "Închidere bară laterală"
+      ],
+      "Copy booking page link": [
+        "Copiere legătură web pagină de rezervare"
+      ],
+      "Copy link and close": [
+        "Copiere legătură web și închidere"
+      ],
+      "Delete booking page": [
+        "Ștergere pagină de rezervări"
+      ],
+      "Edit booking page": [
+        "Editare pagină de rezervări"
+      ],
+      "Remove the booking range": [
+        "Eliminare interval de rezervare"
+      ],
+      "Split current booking range": [
+        "Divizare perioadă curentă de rezervare"
       ]
     },
     "action": {
@@ -1948,6 +1972,9 @@
       ],
       "High-speed chats and advanced AI features.": [
         "Conversații rapide și funcții avansate de inteligență artificială."
+      ],
+      "Advanced account and network security in one plan": [
+        "Securitate avansată a contului și a rețelei într-un singur plan"
       ]
     },
     "colon": {
@@ -3225,6 +3252,9 @@
       ],
       "You’ve already created 10 aliases. Get unlimited aliases and 500 GB of storage with ${ BRAND_NAME } Unlimited.": [
         "Ați creat deja 10 aliasuri. Obțineți aliasuri nelimitate și 500 GiB de spațiu de stocare cu ${ BRAND_NAME } Unlimited."
+      ],
+      "You’ll get a secure email with the details shortly.": [
+        "Veți primi în scurt timp un e-mail securizat cu detaliile."
       ]
     },
     "description": {
@@ -5654,7 +5684,7 @@
         "Dacă continuați cu retrogradarea, veți pierde accesul la funcțiile cu plată din ${ MAIL_APP_NAME } și ${ VPN_APP_NAME }."
       ],
       "If you proceed with the downgrade, you will lose access to ${ MAIL_APP_NAME } paid features, including additional storage and filters.": [
-        "Dacă continuați cu retrogradarea, veți pierde accesul la funcțiile cu plată din ${ MAIL_APP_NAME }, inclusiv spațiul și filtrele suplimentare."
+        "Dacă veți continua cu retrogradarea, veți pierde accesul la funcțiile cu plată din ${ MAIL_APP_NAME }, inclusiv spațiul și filtrele suplimentare."
       ],
       "If you proceed with the downgrade, you will lose access to ${ VPN_APP_NAME } paid features.": [
         "Dacă continuați cu retrogradarea, veți pierde accesul la funcțiile cu plată din ${ VPN_APP_NAME }."
@@ -6506,6 +6536,41 @@
       ],
       "You’ll still be able to view your own account data, but all user accounts will be removed from your organization.": [
         "Veți putea totuși să vă vizualizați datele propriului cont, dar toate conturile de utilizator vor fi eliminate din organizație."
+      ],
+      "${ MEET_APP_NAME } video call": [
+        "Apel video ${ MEET_APP_NAME }"
+      ],
+      "Appointment duration": [
+        "Durată programare"
+      ],
+      "Cannot create booking range across days": [
+        "Nu se poate crea un interval de rezervare pe parcursul mai multor zile."
+      ],
+      "Host": [
+        "Gazdă"
+      ],
+      "Location": [
+        "Loc"
+      ],
+      "Manange booking page": [
+        "Gestionare pagină de rezervări"
+      ],
+      "Powered by ${ protonButton }": [
+        "Oferit de ${ protonButton }"
+      ],
+      "Privacy by default": [
+        "Confidențialitate implicită"
+      ],
+      "Saving event": [
+        "Se salvează evenimentul",
+        "Se salvează evenimentele",
+        "Se salvează evenimentele"
+      ],
+      "Share this page to let others book time in your calendar. You can manage it anytime in the sidebar under Booking pages.": [
+        "Partajați această pagină pentru a le permite altora să-și rezerve timp în calendarul dvs. Îl puteți gestiona oricând în bara laterală, în „Pagini de rezervare”."
+      ],
+      "You will loose all unsaved changes.": [
+        "Veți pierde toate modificările nesalvate."
       ]
     },
     "info": {
@@ -7356,6 +7421,9 @@
       ],
       "What’s this?": [
         "Ce este asta?"
+      ],
+      "Reactivate subscription": [
+        "Reactivare abonament"
       ]
     },
     "Link label (optional)": {
@@ -8227,6 +8295,14 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Scanăm internetul ascuns pentru a verifica dacă adresele sau aliasurile ${ BRAND_NAME } v-au fost divulgate și vă avertizăm imediat dacă găsim ceva."
+      ],
+      "Existing ${ PLAN_NAMES[PLANS.VPN_BUSINESS] } benefits": [
+        "Beneficiile existente ale planului ${ PLAN_NAMES[PLANS.VPN_BUSINESS] }"
+      ],
+      "Vault sharing with up to ${ n } person": [
+        "Partajare seifuri cu ${ n } persoană",
+        "Partajare seifuri cu ${ n } persoane",
+        "Partajare seifuri cu ${ n } de persoane"
       ]
     },
     "new_plans: feature highlight": {
@@ -9861,6 +9937,9 @@
       ],
       "your subscription": [
         "abonament personal"
+      ],
+      "After that date, your account will be downgraded to **${ BRAND_NAME } Free**. If you change your mind, you can **reactivate your subscription** to keep access to premium features.": [
+        "După acea dată, contul va fi retrogradat la **${ BRAND_NAME } Free**. Dacă vă răzgândiți, vă puteți **reactiva abonamentul** pentru a vă păstra accesul la funcțiile speciale."
       ]
     },
     "Reload event button tooltip": {
@@ -10612,6 +10691,12 @@
       ],
       "You’ll lose access to unlimited logins and notes, unlimited hide-my-email aliases, 20 vaults, as well as priority support.": [
         "Veți pierde accesul la autentificări și note nelimitate, aliasuri hide-my-email nelimitate, 20 de seifuri, precum și la asistența prioritară."
+      ],
+      "${ app } storage used": [
+        "Spațiu utilizat de ${ app }"
+      ],
+      "Storage used": [
+        "Spațiu utilizat"
       ]
     },
     "Subscribe to calendar modal": {
@@ -12117,6 +12202,18 @@
       ],
       "Your shorter address is now ready": [
         "Adresa scurtă este pregătită acum"
+      ],
+      "Appointment details": [
+        "Detalii programare"
+      ],
+      "Discard changes?": [
+        "Anulare modificări?"
+      ],
+      "Host": [
+        "Gazdă"
+      ],
+      "Your booking is confirmed": [
+        "Rezervarea este confirmată"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -12734,6 +12831,41 @@
       ],
       "Passcode:": [
         "Cod de acces:"
+      ]
+    },
+    "Autocomplete": {
+      "${ hiddenResultsCount } more result not shown": [
+        "Rezultate neafișate: ${ hiddenResultsCount }",
+        "Rezultate neafișate: ${ hiddenResultsCount }",
+        "Rezultate neafișate: ${ hiddenResultsCount }"
+      ]
+    },
+    "label": {
+      "Date of the booking range": [
+        "Data intervalului de rezervare"
+      ],
+      "End time of the booking range": [
+        "Ora de sfârșit a intervalului de rezervare"
+      ],
+      "Start time of the booking range": [
+        "Oră început interval de rezervare"
+      ]
+    },
+    "Payments.ModificationWarning": {
+      "Are you sure you want to proceed?": [
+        "Sigur doriți să continuați?"
+      ],
+      "If you choose to modify your ${ planTitle } plan, you may lose access to some features.": [
+        "Dacă alegeți să vă modificați planul ${ planTitle }, este posibil să pierdeți accesul la unele funcții."
+      ],
+      "Keep ${ planTitle }": [
+        "Păstrez ${ planTitle }"
+      ],
+      "Yes, I'm sure": [
+        "Da, sigur"
+      ],
+      "Your plan includes this feature already.": [
+        "Planul actual include deja această funcție."
       ]
     }
   }

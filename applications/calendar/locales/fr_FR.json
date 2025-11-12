@@ -974,6 +974,21 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "Votre essai gratuit de l'application de bureau se termine le ${ formattedEndDate }. ${ upgradeButton }"
+      ],
+      "Add a date": [
+        "Ajouter une date"
+      ],
+      "Close sidebar": [
+        "Fermer la barre latérale"
+      ],
+      "Copy booking page link": [
+        "Copier le lien de la page de réservation"
+      ],
+      "Delete booking page": [
+        "Supprimer la page de réservation"
+      ],
+      "Edit booking page": [
+        "Modifier la page de réservation"
       ]
     },
     "action": {
@@ -1946,6 +1961,9 @@
       ],
       "High-speed chats and advanced AI features.": [
         "Discussions rapides et fonctionnalités d'IA avancées."
+      ],
+      "Advanced account and network security in one plan": [
+        "Sécurité avancée des comptes et du réseau dans un seul abonnement"
       ]
     },
     "colon": {
@@ -6439,6 +6457,18 @@
       ],
       "You’ll still be able to view your own account data, but all user accounts will be removed from your organization.": [
         "Vous pourrez toujours consulter les données de votre propre compte, mais tous les comptes utilisateur seront retirés de votre organisation."
+      ],
+      "${ MEET_APP_NAME } video call": [
+        "${ MEET_APP_NAME } appel vidéo"
+      ],
+      "Cannot create booking range across days": [
+        "Impossible de créer une plage de réservation s'étendant sur plusieurs jours"
+      ],
+      "Manange booking page": [
+        "Gérer la page de réservation"
+      ],
+      "You will loose all unsaved changes.": [
+        "Vous perdrez toutes les modifications non enregistrées."
       ]
     },
     "info": {
@@ -7294,6 +7324,9 @@
       ],
       "What’s this?": [
         "Qu'est-ce que c'est ?"
+      ],
+      "Reactivate subscription": [
+        "Réactiver l'abonnement"
       ]
     },
     "Link label (optional)": {
@@ -8135,6 +8168,13 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Nous analysons le dark web et vérifions si vos adresses ou vos alias ${ BRAND_NAME } ont été divulgués et nous vous informons immédiatement des résultats."
+      ],
+      "Existing ${ PLAN_NAMES[PLANS.VPN_BUSINESS] } benefits": [
+        "Avantages existants de l'abonnement ${ PLAN_NAMES[PLANS.VPN_BUSINESS] }"
+      ],
+      "Vault sharing with up to ${ n } person": [
+        "Partage du coffre-fort jusqu'à ${ n } personne",
+        "Partage du coffre-fort avec jusqu'à ${ n } personnes"
       ]
     },
     "new_plans: feature highlight": {
@@ -9726,6 +9766,9 @@
       ],
       "your subscription": [
         "votre abonnement"
+      ],
+      "After that date, your account will be downgraded to **${ BRAND_NAME } Free**. If you change your mind, you can **reactivate your subscription** to keep access to premium features.": [
+        "Après cette date, votre compte passera à un abonnement inférieur à **${ BRAND_NAME } Gratuit**. Si vous changez d'avis, vous pouvez **réactiver votre abonnement** pour conserver l'accès aux fonctionnalités premium."
       ]
     },
     "Reload event button tooltip": {
@@ -11946,6 +11989,9 @@
       ],
       "Your shorter address is now ready": [
         "Votre adresse au format plus court est maintenant prête."
+      ],
+      "Discard changes?": [
+        "Abandonner les modifications ?"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {

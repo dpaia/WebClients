@@ -4069,6 +4069,11 @@
       ],
       "Your system time zone seems to have changed to ${ timezone }. Do you want to update your time zone preference?": [
         "Vremenska zona vašeg sustava promijenjena je u ${ timezone }. Želite li ažurirati svoje postavke vremenske zone?"
+      ],
+      "Saving event": [
+        "Spremanje događaja",
+        "Spremanje događaja",
+        "Spremanje događaja"
       ]
     },
     "info": {
@@ -7248,6 +7253,9 @@
       ],
       "Your plan": [
         "Vaš plan"
+      ],
+      "Discard changes?": [
+        "Odbaci promjene?"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -7709,6 +7717,13 @@
     "Zoom Meeting": {
       "Meeting ID:": [
         "ID sastanka:"
+      ]
+    },
+    "Autocomplete": {
+      "${ hiddenResultsCount } more result not shown": [
+        "još ${ hiddenResultsCount } rezultat nije prikazan",
+        "Još ${ hiddenResultsCount } rezultata nije prikazano",
+        "Još ${ hiddenResultsCount } rezultata nije prikazano"
       ]
     }
   }

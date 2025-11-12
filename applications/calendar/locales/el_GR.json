@@ -974,6 +974,21 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "Η δωρεάν δοκιμή της εφαρμογής για υπολογιστές λήγει στις ${ formattedEndDate }. ${ upgradeButton }"
+      ],
+      "Add a date": [
+        "Προσθέστε μια ημερομηνία"
+      ],
+      "Close sidebar": [
+        "Κλείσιμο πλαϊνής γραμμής"
+      ],
+      "Copy booking page link": [
+        "Αντιγραφή συνδέσμου σελίδας κράτησης"
+      ],
+      "Delete booking page": [
+        "Διαγραφή σελίδας κρατήσεων"
+      ],
+      "Edit booking page": [
+        "Επεξεργασία σελίδας κρατήσεων"
       ]
     },
     "action": {
@@ -1946,6 +1961,9 @@
       ],
       "High-speed chats and advanced AI features.": [
         "Υψηλής ταχύτητας συνομιλίες και προηγμένα χαρακτηριστικά AI."
+      ],
+      "Advanced account and network security in one plan": [
+        "Προηγμένη ασφάλεια λογαριασμού και δικτύου σε ένα πλάνο"
       ]
     },
     "colon": {
@@ -6448,6 +6466,33 @@
       ],
       "You’ll still be able to view your own account data, but all user accounts will be removed from your organization.": [
         "Θα εξακολουθείτε να μπορείτε να βλέπετε τα δικά σας δεδομένα λογαριασμού, αλλά όλοι οι λογαριασμοί χρηστών θα καταργηθούν από τον οργανισμό σας."
+      ],
+      "${ MEET_APP_NAME } video call": [
+        "${ MEET_APP_NAME } βιντεοκλήση"
+      ],
+      "Appointment duration": [
+        "Διάρκεια ραντεβού"
+      ],
+      "Cannot create booking range across days": [
+        "Δεν είναι δυνατή η δημιουργία εύρους κράτησης για πολλαπλές ημέρες"
+      ],
+      "Host": [
+        "Διακομιστής"
+      ],
+      "Location": [
+        "Τοποθεσία"
+      ],
+      "Manange booking page": [
+        "Διαχείριση σελίδας κρατήσεων"
+      ],
+      "Powered by ${ protonButton }": [
+        "Με την υποστήριξη της ${ protonButton }"
+      ],
+      "Privacy by default": [
+        "Ιδιωτικότητα από προεπιλογή"
+      ],
+      "You will loose all unsaved changes.": [
+        "Θα χάσετε όλες τις μη αποθηκευμένες αλλαγές."
       ]
     },
     "info": {
@@ -7303,6 +7348,9 @@
       ],
       "What’s this?": [
         "Τι είναι αυτό;"
+      ],
+      "Reactivate subscription": [
+        "Επανενεργοποίηση συνδρομής"
       ]
     },
     "Link label (optional)": {
@@ -8144,6 +8192,13 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Σαρώνουμε τον σκοτεινό ιστό για να ελέγξουμε εάν οι διευθύνσεις ή τα ψευδώνυμά σας ${ BRAND_NAME } έχουν διαρρεύσει και σας ειδοποιούμε αμέσως αν βρούμε κάτι."
+      ],
+      "Existing ${ PLAN_NAMES[PLANS.VPN_BUSINESS] } benefits": [
+        "Υφιστάμενα οφέλη ${ PLAN_NAMES[PLANS.VPN_BUSINESS] }"
+      ],
+      "Vault sharing with up to ${ n } person": [
+        "Κοινή χρήση κρύπτης έως ${ n } άτομο",
+        "Κοινή χρήση κρύπτης έως ${ n } άτομα"
       ]
     },
     "new_plans: feature highlight": {
@@ -9735,6 +9790,9 @@
       ],
       "your subscription": [
         "η συνδρομή σας"
+      ],
+      "After that date, your account will be downgraded to **${ BRAND_NAME } Free**. If you change your mind, you can **reactivate your subscription** to keep access to premium features.": [
+        "Μετά από αυτή την ημερομηνία, ο λογαριασμός σας θα υποβαθμιστεί στο **${ BRAND_NAME } Free**. Αν αλλάξετε γνώμη, μπορείτε να **επανενεργοποιήσετε τη συνδρομή σας** για να διατηρήσετε την πρόσβασή σας στις premium λειτουργίες."
       ]
     },
     "Reload event button tooltip": {
@@ -11955,6 +12013,12 @@
       ],
       "Your shorter address is now ready": [
         "Η συντομότερη διεύθυνσή σας είναι τώρα έτοιμη"
+      ],
+      "Appointment details": [
+        "Στοιχεία ραντεβού"
+      ],
+      "Discard changes?": [
+        "Απόρριψη αλλαγών;"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -12528,6 +12592,23 @@
       ],
       "Passcode:": [
         "Κωδικός πρόσβασης:"
+      ]
+    },
+    "Payments.ModificationWarning": {
+      "Are you sure you want to proceed?": [
+        "Είστε βέβαιοι ότι θέλετε να συνεχίσετε;"
+      ],
+      "If you choose to modify your ${ planTitle } plan, you may lose access to some features.": [
+        "Εάν επιλέξετε να τροποποιήσετε το πλάνο ${ planTitle } σας, ενδέχεται να χάσετε την πρόσβαση σε ορισμένες λειτουργίες."
+      ],
+      "Keep ${ planTitle }": [
+        "Διατήρηση ${ planTitle }"
+      ],
+      "Yes, I'm sure": [
+        "Ναι, Είμαι σίγουρος"
+      ],
+      "Your plan includes this feature already.": [
+        "Το πλάνο σας περιλαμβάνει ήδη αυτή τη λειτουργία."
       ]
     }
   }

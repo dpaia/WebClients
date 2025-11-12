@@ -964,6 +964,12 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "デスクトップアプリの無料トライアルは ${ formattedEndDate } で終了します。${ upgradeButton }"
+      ],
+      "Remove the booking range": [
+        "予約期間を削除"
+      ],
+      "Split current booking range": [
+        "現在の予約期間を分割"
       ]
     },
     "action": {
@@ -6354,6 +6360,9 @@
       ],
       "You’ll still be able to view your own account data, but all user accounts will be removed from your organization.": [
         "お客様ご自身のアカウントデータは引き続き表示できますが、すべてのユーザーアカウントがお客様の組織から削除されます。"
+      ],
+      "Saving event": [
+        "予定を保存中"
       ]
     },
     "info": {
@@ -10266,6 +10275,12 @@
       ],
       "You’ll lose access to unlimited logins and notes, unlimited hide-my-email aliases, 20 vaults, as well as priority support.": [
         "無制限のログインとメモ、無制限のhide-my-email エイリアス、20 個の保管庫、および優先サポートにアクセスできなくなります。"
+      ],
+      "${ app } storage used": [
+        "${ app } のストレージ使用量"
+      ],
+      "Storage used": [
+        "使用中のストレージ"
       ]
     },
     "Subscribe to calendar modal": {
@@ -11717,6 +11732,9 @@
       ],
       "Your shorter address is now ready": [
         "短いアドレスの準備ができました"
+      ],
+      "Discard changes?": [
+        "変更を破棄しますか?"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -12246,6 +12264,17 @@
       ],
       "Passcode:": [
         "パスコード："
+      ]
+    },
+    "label": {
+      "Date of the booking range": [
+        "予約期間の日付"
+      ],
+      "End time of the booking range": [
+        "予約期間の終了時刻"
+      ],
+      "Start time of the booking range": [
+        "予約期間の開始時刻"
       ]
     }
   }

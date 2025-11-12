@@ -974,6 +974,21 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "La prova gratuïta de l'aplicació d'escriptori finalitza el ${ formattedEndDate }. ${ upgradeButton }"
+      ],
+      "Add a date": [
+        "Afegiu una data"
+      ],
+      "Close sidebar": [
+        "Tanqueu la barra lateral"
+      ],
+      "Copy booking page link": [
+        "Copieu l'enllaç de la pàgina de reserves"
+      ],
+      "Delete booking page": [
+        "Elimineu la pàgina de reserves"
+      ],
+      "Edit booking page": [
+        "Editeu la pàgina de reserves"
       ]
     },
     "action": {
@@ -1946,6 +1961,9 @@
       ],
       "High-speed chats and advanced AI features.": [
         "Xats d'alta velocitat i característiques d'IA avançades."
+      ],
+      "Advanced account and network security in one plan": [
+        "Seguretat avançada del compte i de la xarxa amb un sol pla"
       ]
     },
     "colon": {
@@ -6448,6 +6466,30 @@
       ],
       "You’ll still be able to view your own account data, but all user accounts will be removed from your organization.": [
         "Encara podreu veure les dades del vostre compte, però tots els comptes d'usuari s'eliminaran de la vostra organització."
+      ],
+      "${ MEET_APP_NAME } video call": [
+        "${ MEET_APP_NAME } videotrucada"
+      ],
+      "Appointment duration": [
+        "Durada de la cita"
+      ],
+      "Cannot create booking range across days": [
+        "No es pot crear un interval de reserva que abasti diversos dies"
+      ],
+      "Host": [
+        "Amfitrió"
+      ],
+      "Location": [
+        "Ubicació"
+      ],
+      "Manange booking page": [
+        "Gestioneu la pàgina de reserves"
+      ],
+      "Privacy by default": [
+        "Privacitat per defecte"
+      ],
+      "You will loose all unsaved changes.": [
+        "Perdreu tots els canvis que no hàgiu desat."
       ]
     },
     "info": {
@@ -7303,6 +7345,9 @@
       ],
       "What’s this?": [
         "Què és això?"
+      ],
+      "Reactivate subscription": [
+        "Reactiva la subscripció"
       ]
     },
     "Link label (optional)": {
@@ -8144,6 +8189,13 @@
       ],
       "We scan the dark web to check if your ${ BRAND_NAME } addresses or aliases have been leaked and alert you immediately if we find anything.": [
         "Escanegem el web fosc per a comprovar si les vostres adreces o àlies de ${ BRAND_NAME } s'han filtrat i us avisem immediatament si trobem alguna cosa."
+      ],
+      "Existing ${ PLAN_NAMES[PLANS.VPN_BUSINESS] } benefits": [
+        "Avantatges del ${ PLAN_NAMES[PLANS.VPN_BUSINESS] } actual"
+      ],
+      "Vault sharing with up to ${ n } person": [
+        "Ús compartit de la caixa forta amb fins a ${ n } persona",
+        "Ús compartit de la caixa forta amb fins a ${ n } persones"
       ]
     },
     "new_plans: feature highlight": {
@@ -8600,7 +8652,7 @@
         "El codi d'accés s'ha copiat al porta-retalls."
       ],
       "Passphrase copied to clipboard": [
-        "La frase de contrasenya s'ha copiat al porta-retalls"
+        "S'ha copiat la frase de contrasenya al porta-retalls"
       ]
     },
     "Notification for duplicate filenames in the current upload": {
@@ -9735,6 +9787,9 @@
       ],
       "your subscription": [
         "la vostra subscripció"
+      ],
+      "After that date, your account will be downgraded to **${ BRAND_NAME } Free**. If you change your mind, you can **reactivate your subscription** to keep access to premium features.": [
+        "Després d'aquesta data, el vostre compte baixarà de categoria a **${ BRAND_NAME } Gratuït**. Si canvieu d'opinió, podreu **reactivar la vostra subscripció** per mantenir l'accés a les funcions prèmium."
       ]
     },
     "Reload event button tooltip": {
@@ -11955,6 +12010,12 @@
       ],
       "Your shorter address is now ready": [
         "La vostra adreça més curta ja està a punt."
+      ],
+      "Appointment details": [
+        "Detalls de la cita"
+      ],
+      "Discard changes?": [
+        "Voleu descartar els canvis?"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -12059,7 +12120,7 @@
     },
     "tooltip": {
       "${ LUMO_APP_NAME }: AI assistant that respects your privacy": [
-        "${ LUMO_APP_NAME }: l'assistent d'IA que respecta la vostra privacitat"
+        "${ LUMO_APP_NAME }: L'assistent d'IA que respecta la vostra privacitat"
       ],
       "${ PASS_APP_NAME }: Secure logins on all your devices. Includes unlimited aliases, sharing, integrated 2FA, and more.": [
         "${ PASS_APP_NAME }: Inicis de sessió segurs en tots els vostres dispositius. Inclou àlies il·limitats, compartició, A2F integrada, etc."
@@ -12528,6 +12589,23 @@
       ],
       "Passcode:": [
         "Codi d'accés:"
+      ]
+    },
+    "Payments.ModificationWarning": {
+      "Are you sure you want to proceed?": [
+        "Esteu segur que voleu procedir?"
+      ],
+      "If you choose to modify your ${ planTitle } plan, you may lose access to some features.": [
+        "Si decidiu modificar el vostre pla ${ planTitle }, potser perdreu l'accés a algunes característiques."
+      ],
+      "Keep ${ planTitle }": [
+        "Seguiu amb ${ planTitle }"
+      ],
+      "Yes, I'm sure": [
+        "Sí, n'estic segur"
+      ],
+      "Your plan includes this feature already.": [
+        "El vostre pla ja inclou aquesta característica."
       ]
     }
   }

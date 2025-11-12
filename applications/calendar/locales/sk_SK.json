@@ -982,6 +982,12 @@
       ],
       "Your desktop app free trial ends on ${ formattedEndDate }. ${ upgradeButton }": [
         "Bezplatná skúšobná verzia desktopovej aplikácie končí dňa ${ formattedEndDate }. ${ upgradeButton }"
+      ],
+      "Add a date": [
+        "Pridať dátum"
+      ],
+      "Close sidebar": [
+        "Zavrieť bočný panel"
       ]
     },
     "action": {
@@ -6618,6 +6624,15 @@
       ],
       "You’ll still be able to view your own account data, but all user accounts will be removed from your organization.": [
         "Stále si budete môcť prezerať svoje vlastné údaje, ale všetky používateľské účty budú z vašej organizácie odstránené."
+      ],
+      "${ MEET_APP_NAME } video call": [
+        "${ MEET_APP_NAME } videohovor"
+      ],
+      "Cannot create booking range across days": [
+        "Nie je možné vytvoriť rezerváciu v rozsahu viacerých dní"
+      ],
+      "You will loose all unsaved changes.": [
+        "Všetky neuložené zmeny stratíte."
       ]
     },
     "info": {
@@ -7485,6 +7500,9 @@
       ],
       "What’s this?": [
         "Čo je to?"
+      ],
+      "Reactivate subscription": [
+        "Obnoviť predplatné"
       ]
     },
     "Link label (optional)": {
@@ -10063,6 +10081,9 @@
       ],
       "your subscription": [
         "vaše predplatné"
+      ],
+      "After that date, your account will be downgraded to **${ BRAND_NAME } Free**. If you change your mind, you can **reactivate your subscription** to keep access to premium features.": [
+        "Po tomto dátume bude váš účet znížený na **${ BRAND_NAME } Free**. Ak si to rozmyslíte, môžete **opätovne obnoviť svoje predplatné** a zachovať si prístup k prémiovým funkciám."
       ]
     },
     "Reload event button tooltip": {
@@ -12379,6 +12400,9 @@
       ],
       "Your shorter address is now ready": [
         "Vaša skrátená adresa je pripravená"
+      ],
+      "Discard changes?": [
+        "Zrušiť zmeny?"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {

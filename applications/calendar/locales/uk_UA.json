@@ -10551,6 +10551,12 @@
       ],
       "Your shorter address is now ready": [
         "Ваша коротша адреса готова"
+      ],
+      "Account restricted": [
+        "Обліковий запис обмежено"
+      ],
+      "Discard changes?": [
+        "Відхилити зміни?"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {

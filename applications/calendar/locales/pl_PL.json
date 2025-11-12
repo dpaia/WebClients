@@ -11730,6 +11730,9 @@
       ],
       "Your shorter address is now ready": [
         "Krótszy adres jest już gotowy"
+      ],
+      "Discard changes?": [
+        "Czy chcesz odrzucić zmiany?"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
