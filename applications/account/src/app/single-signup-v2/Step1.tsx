@@ -580,7 +580,7 @@ const Step1 = ({
                 checkResult: options.checkResult,
                 plansMap: model.plansMap,
                 planIDs: options.planIDs,
-                subscription: model.session?.subscription,
+                subscription: model.session?.subscription as Subscription,
                 app,
             })}
         </div>

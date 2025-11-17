@@ -15,6 +15,7 @@ import type {
     PaymentMethodFlow,
     PaymentProcessorHook,
     PaymentsApi,
+    Subscription,
     TokenPayment,
 } from '@proton/payments';
 import {
@@ -172,7 +173,7 @@ const AccountStepPayment = ({
         theme: publicTheme,
         billingAddress,
         user,
-        subscription: model.session?.subscription,
+        subscription: model.session?.subscription as Subscription,
         planIDs: model.subscriptionData.planIDs,
         onChargeable: (_, { chargeablePaymentParameters, paymentsVersion, paymentProcessorType, source }) => {
             return withLoadingSignup(async () => {

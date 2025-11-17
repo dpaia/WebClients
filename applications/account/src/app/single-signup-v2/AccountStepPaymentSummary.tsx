@@ -10,6 +10,7 @@ import { getTotalBillingText } from '@proton/components/containers/payments/subs
 import {
     COUPON_CODES,
     type Plan,
+    type Subscription,
     SubscriptionMode,
     TRIAL_DURATION_DAYS,
     TaxInclusive,
@@ -51,7 +52,7 @@ const TrialSummary = ({
         checkResult: options.checkResult,
         plansMap: model.plansMap,
         planIDs: options.planIDs,
-        subscription: model.session?.subscription,
+        subscription: model.session?.subscription as Subscription,
         app,
     });
 
