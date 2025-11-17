@@ -536,7 +536,6 @@ export function getNormalCycleFromCustomCycle(cycle: CYCLE | undefined): CYCLE |
         }
     }
 
-    // well, that should be unreachable, but let it be just in case
     return CYCLE.MONTHLY;
 }
 
