@@ -993,6 +993,21 @@
       ],
       "Split current booking range": [
         "Divizare perioadă curentă de rezervare"
+      ],
+      "Create a free account": [
+        "Creare cont gratuit"
+      ],
+      "Go to the next available appointment": [
+        "Salt la următoarea programare disponibilă"
+      ],
+      "See previous availability": [
+        "Afișare disponibilitate anterioară"
+      ],
+      "See upcoming availability": [
+        "Afișare disponibilitate viitoare"
+      ],
+      "Select ${ dateHeaderLongString } at ${ timeString }": [
+        "Selectare ${ dateHeaderLongString } la ${ timeString }"
       ]
     },
     "action": {
@@ -1632,6 +1647,9 @@
       ],
       "Website access problem": [
         "Problemă accesare site web"
+      ],
+      "Authenticator problem": [
+        "Problemă autentificator"
       ]
     },
     "Button": {
@@ -4108,11 +4126,17 @@
       ],
       "ZIP code is required": [
         "Codul poștal este obligatoriu."
+      ],
+      "You cannot enter the organizer email": [
+        "Nu puteți introduce e-mailul organizatorului"
       ]
     },
     "error": {
       "Please sign in with the same Gmail address you originally connected": [
         "Conectați-vă cu aceeași adresă Gmail cu care v-ați conectat inițial."
+      ],
+      "Please sign in with a Gmail address that already forwards to ${ MAIL_APP_NAME }": [
+        "Conectați-vă cu o adresă Gmail care deja se redirecționează către ${ MAIL_APP_NAME }"
       ]
     },
     "Error accepting calendar invitation": {
@@ -4666,6 +4690,9 @@
     "Form": {
       "Your contact info": [
         "Datele de contact"
+      ],
+      "Confirm your booking": [
+        "Confirmare rezervare"
       ]
     },
     "Google Meet": {
@@ -6571,6 +6598,39 @@
       ],
       "You will loose all unsaved changes.": [
         "Veți pierde toate modificările nesalvate."
+      ],
+      "Are you sure you want to delete this booking page?": [
+        "Sigur ștergeți această pagină de rezervare?"
+      ],
+      "Booking page deleted": [
+        "Pagina de rezervare s-a șters."
+      ],
+      "Cannot create booking range in the past": [
+        "Nu se poate crea un interval de rezervare în trecut."
+      ],
+      "No appointments available this week": [
+        "Nu sunt programări disponibile săptămâna asta"
+      ],
+      "People booking time with you will see ${ selectedCalendar.Email } as your contact address.": [
+        "Persoanele care rezervă timp cu dvs. vor vedea ${ selectedCalendar.Email } ca adresă de contact."
+      ],
+      "Powered by": [
+        "Dezvoltat de"
+      ],
+      "Previously booked events won't be deleted.": [
+        "Evenimentele programate anterior nu vor fi șterse."
+      ],
+      "Share this page to let others book time in your calendar. You can find and edit it in the sidebar under Booking pages.": [
+        "Partajați această pagină pentru a le permite altora să-și rezerve timp în calendarul dvs. O puteți găsi și edita în bara laterală în „Pagini de rezervare”."
+      ],
+      "Take control of your digital life": [
+        "Preluați controlul asupra propriei vieți digitale"
+      ],
+      "This booking was made via ${ CALENDAR_APP_NAME }, part of ${ BRAND_NAME }'s suite of privacy-first products.": [
+        "Această rezervare a fost făcută prin ${ CALENDAR_APP_NAME }, parte din suita de produse cu confidențialitate prioritară de la ${ BRAND_NAME }."
+      ],
+      "What do you want to call this booking page?": [
+        "Cum doriți să numiți această pagină de rezervare?"
       ]
     },
     "info": {
@@ -7265,6 +7325,15 @@
       ],
       "Zoom meeting": [
         "Conferință pe Zoom"
+      ],
+      "Full name": [
+        "Numele complet"
+      ],
+      "Repeat weekly": [
+        "Repetare săptămânală"
+      ],
+      "Unavailable": [
+        "Indisponibil"
       ]
     },
     "Label for contact group color": {
@@ -7424,6 +7493,9 @@
       ],
       "Reactivate subscription": [
         "Reactivare abonament"
+      ],
+      "Booking pages": [
+        "Pagini de rezervare"
       ]
     },
     "Link label (optional)": {
@@ -9764,6 +9836,12 @@
       ],
       "ZIP code": [
         "Cod poștal"
+      ],
+      "Email for booking confirmation": [
+        "E-mail pentru confirmarea rezervării"
+      ],
+      "Name of attendee": [
+        "Nume participant"
       ]
     },
     "Placeholder for contact group name": {
@@ -12214,6 +12292,12 @@
       ],
       "Your booking is confirmed": [
         "Rezervarea este confirmată"
+      ],
+      "Choose a time": [
+        "Alegeți o oră"
+      ],
+      "Delete booking page?": [
+        "Ștergeți pagina de rezervări?"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -12849,6 +12933,12 @@
       ],
       "Start time of the booking range": [
         "Oră început interval de rezervare"
+      ],
+      "How long should an appointment last?": [
+        "Cât ar trebui să dureze o întâlnire?"
+      ],
+      "What should people know before booking?": [
+        "Ce ar trebui să știe oamenii înainte de a rezerva?"
       ]
     },
     "Payments.ModificationWarning": {

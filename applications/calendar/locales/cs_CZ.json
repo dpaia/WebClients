@@ -330,7 +330,7 @@
         "Hotovo"
       ],
       "Downgrade": [
-        "Downgradovat"
+        "Snížit"
       ],
       "Download": [
         "Stáhnout"
@@ -997,6 +997,21 @@
       ],
       "Edit booking page": [
         "Upravit rezervační stránku"
+      ],
+      "Create a free account": [
+        "Vytvořit účet zdarma"
+      ],
+      "Go to the next available appointment": [
+        "Přejít na další dostupnou schůzku"
+      ],
+      "See previous availability": [
+        "Zobrazit předchozí dostupnost"
+      ],
+      "See upcoming availability": [
+        "Zobrazit nadcházející dostupnost"
+      ],
+      "Select ${ dateHeaderLongString } at ${ timeString }": [
+        "Vybrat ${ dateHeaderLongString } v ${ timeString }"
       ]
     },
     "action": {
@@ -1456,7 +1471,7 @@
         "Zabezpečte své e-maily a harmonogram pomocí koncového šifrování. Obsahuje 15 e-mailových adres, podporu pro vlastní e-mailové domény, neomezený počet aliasů hide-my-email a další."
       ],
       "Secure your files with encrypted cloud storage. Includes online document editor, photo backup, version history, encrypted file sharing, and more.": [
-        "Zabezpečte své soubory pomocí šifrovaného cloudového úložiště. Obsahuje online editor dokumentů, zálohování fotografií, historii verzí souborů, šifrované sdílení souborů a další funkce."
+        "Zabezpečte své soubory pomocí šifrovaného cloudového úložiště. Obsahuje online editor dokumentů, zálohování fotek, historii verzí souborů, šifrované sdílení souborů a další funkce."
       ],
       "Storage space is shared across all ${ BRAND_NAME } services.": [
         "Úložný prostor je sdílen mezi všemi službami ${ BRAND_NAME }."
@@ -1652,6 +1667,9 @@
       ],
       "Website access problem": [
         "Problém s přístupem k webové stránce"
+      ],
+      "Authenticator problem": [
+        "Problém s ověřovací aplikací"
       ]
     },
     "Button": {
@@ -4150,11 +4168,17 @@
       ],
       "ZIP code is required": [
         "PSČ je potřeba vyplnit"
+      ],
+      "You cannot enter the organizer email": [
+        "Nelze zadat e-mail organizátora"
       ]
     },
     "error": {
       "Please sign in with the same Gmail address you originally connected": [
         "Přihlaste se prosím pomocí stejné adresy Gmail, kterou jste původně použili pro připojení"
+      ],
+      "Please sign in with a Gmail address that already forwards to ${ MAIL_APP_NAME }": [
+        "Přihlaste se prosím s adresou Gmail, která již přeposílá na ${ MAIL_APP_NAME }"
       ]
     },
     "Error accepting calendar invitation": {
@@ -4717,6 +4741,9 @@
     "Form": {
       "Your contact info": [
         "Vaše kontaktní údaje"
+      ],
+      "Confirm your booking": [
+        "Potvrdit svou rezervaci"
       ]
     },
     "Google Meet": {
@@ -6656,13 +6683,46 @@
         "Spravovat rezervační stránku"
       ],
       "Powered by ${ protonButton }": [
-        "Poháněno ${ protonButton }"
+        "Pohání ${ protonButton }"
       ],
       "Privacy by default": [
-        "Soukromí především"
+        "Soukromí ve výchozím stavu"
       ],
       "You will loose all unsaved changes.": [
         "Ztratíte všechny neuložené změny."
+      ],
+      "Are you sure you want to delete this booking page?": [
+        "Opravdu chcete smazat tuto rezervační stránku?"
+      ],
+      "Booking page deleted": [
+        "Rezervační stránka smazána"
+      ],
+      "Cannot create booking range in the past": [
+        "Nelze vytvořit rozsah rezervace v minulosti"
+      ],
+      "No appointments available this week": [
+        "Na tento týden nejsou k dispozici žádné události"
+      ],
+      "People booking time with you will see ${ selectedCalendar.Email } as your contact address.": [
+        "Lidé, kteří si u vás rezervují čas, uvidí ${ selectedCalendar.Email } jako vaši kontaktní adresu."
+      ],
+      "Powered by": [
+        "Pohání"
+      ],
+      "Previously booked events won't be deleted.": [
+        "Dříve rezervované události nebudou smazány."
+      ],
+      "Share this page to let others book time in your calendar. You can find and edit it in the sidebar under Booking pages.": [
+        "Sdílejte tuto stránku, aby si ostatní mohli rezervovat čas ve vašem kalendáři. Můžete ji najít a upravit v postranním panelu pod položkou Rezervační stránky."
+      ],
+      "Take control of your digital life": [
+        "Převezměte kontrolu nad svým digitálním životem"
+      ],
+      "This booking was made via ${ CALENDAR_APP_NAME }, part of ${ BRAND_NAME }'s suite of privacy-first products.": [
+        "Tato rezervace byla provedena prostřednictvím aplikace ${ CALENDAR_APP_NAME }, která je součástí sady produktů ${ BRAND_NAME } zaměřených na ochranu soukromí."
+      ],
+      "What do you want to call this booking page?": [
+        "Jak chcete pojmenovat tuto rezervační stránku?"
       ]
     },
     "info": {
@@ -7363,6 +7423,9 @@
       ],
       "Zoom meeting": [
         "Schůzka na Zoomu"
+      ],
+      "Full name": [
+        "Jméno a příjmení"
       ]
     },
     "label": {
@@ -7374,6 +7437,12 @@
       ],
       "Start time of the booking range": [
         "Čas zahájení rozsahu rezervace"
+      ],
+      "How long should an appointment last?": [
+        "Jak dlouho by měla schůzka trvat?"
+      ],
+      "What should people know before booking?": [
+        "Co by lidé měli vědět před rezervací?"
       ]
     },
     "Label for contact group color": {
@@ -7533,6 +7602,9 @@
       ],
       "Reactivate subscription": [
         "Znovu aktivovat předplatné"
+      ],
+      "Booking pages": [
+        "Rezervační stránky"
       ]
     },
     "Link label (optional)": {
@@ -9941,6 +10013,12 @@
       ],
       "ZIP code": [
         "PSČ"
+      ],
+      "Email for booking confirmation": [
+        "E-mail pro potvrzení rezervace"
+      ],
+      "Name of attendee": [
+        "Jméno účastníka"
       ]
     },
     "Placeholder for contact group name": {
@@ -11047,7 +11125,7 @@
         "${ planName } nabízí ${ planMaxSpace } úložného prostoru pro vaše e-maily, přílohy, události, hesla a soubory. Také máte nárok na roční bonusový prostor na úložišti."
       ],
       "${ planName } offers ${ planMaxSpace } storage for your files and photos. You are also eligible for yearly storage bonuses.": [
-        "${ planName } nabízí ${ planMaxSpace } úložiště pro vaše soubory a fotografie. Máte také nárok na roční bonusy k úložišti."
+        "${ planName } nabízí ${ planMaxSpace } úložiště pro vaše soubory a fotky. Máte také nárok na roční bonusy k úložišti."
       ],
       "${ planName } offers ${ planMaxSpace } storage per user for emails, attachments, events, and files. You are also eligible for yearly storage bonuses.": [
         "${ planName } nabízí ${ planMaxSpace } úložného prostoru pro uživatelské e-maily, přílohy, události a soubory. Také máte nárok na roční bonusový prostor na úložišti."
@@ -11110,7 +11188,7 @@
         "Automatické přesměrování e-mailů"
       ],
       "Back up photos from your devices": [
-        "Zálohovat fotografie ze svých zařízení"
+        "Zálohovat fotky ze svých zařízení"
       ],
       "Build trust and brand recognition with professional email addresses at your own domain.": [
         "Vybudujte si důvěryhodnost a rozpoznatelnost značky pomocí profesionálních e-mailových adres na vlastní doméně."
@@ -12445,6 +12523,12 @@
       ],
       "Discard changes?": [
         "Zahodit změny?"
+      ],
+      "Choose a time": [
+        "Zvolte čas"
+      ],
+      "Delete booking page?": [
+        "Smazat rezervační stránku?"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -13119,7 +13203,7 @@
         "Ponechat ${ planTitle }"
       ],
       "Yes, I'm sure": [
-        "Ano, jsem si jistý"
+        "Ano, potvrzuji"
       ],
       "Your plan includes this feature already.": [
         "Váš tarif již zahrnuje tuto funkci."

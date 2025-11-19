@@ -997,6 +997,21 @@
       ],
       "Edit booking page": [
         "Рэдагаваць старонку браніравання"
+      ],
+      "Create a free account": [
+        "Стварыць бясплатны ўліковы запіс"
+      ],
+      "Go to the next available appointment": [
+        "Перайсці да наступнай даступнай сустрэчы"
+      ],
+      "See previous availability": [
+        "Паглядзець папярэднюю даступнасць"
+      ],
+      "See upcoming availability": [
+        "Прагляд надыходзячай даступнасці"
+      ],
+      "Select ${ dateHeaderLongString } at ${ timeString }": [
+        "Выбраць ${ dateHeaderLongString } у ${ timeString }"
       ]
     },
     "action": {
@@ -1652,6 +1667,9 @@
       ],
       "Website access problem": [
         "Праблема з доступам да вэб-сайта"
+      ],
+      "Authenticator problem": [
+        "Праблема з аўтэнтыфікатарам"
       ]
     },
     "Button": {
@@ -1997,6 +2015,9 @@
       ],
       "High-speed chats and advanced AI features.": [
         "Высакахуткасныя чаты і перадавыя функцыі ШІ."
+      ],
+      "Advanced account and network security in one plan": [
+        "Пашыраная бяспека ўліковага запісу і сеткі ў адным тарыфным плане"
       ]
     },
     "colon": {
@@ -4147,11 +4168,17 @@
       ],
       "ZIP code is required": [
         "Патрабуецца ўвесці паштовы індэкс"
+      ],
+      "You cannot enter the organizer email": [
+        "Вы не можаце ўвесці электронную пошту арганізатара."
       ]
     },
     "error": {
       "Please sign in with the same Gmail address you originally connected": [
         "Увайдзіце з тым жа адрасам Gmail, які вы першапачаткова падключылі"
+      ],
+      "Please sign in with a Gmail address that already forwards to ${ MAIL_APP_NAME }": [
+        "Увайдзіце з адрасам Gmail, які ўжо перасылае лісты ў ${ MAIL_APP_NAME }"
       ]
     },
     "Error accepting calendar invitation": {
@@ -4714,6 +4741,9 @@
     "Form": {
       "Your contact info": [
         "Ваша кантактная інфармацыя"
+      ],
+      "Confirm your booking": [
+        "Пацвердзіце браніраванне"
       ]
     },
     "Google Meet": {
@@ -6470,7 +6500,7 @@
         "Гэта дзеянне немагчыма адрабіць."
       ],
       "You can’t have more than ${ MAX_BOOKING_SLOTS } booking slots on a page.": [
-        "У вас не можа быць больш за ${ MAX_BOOKING_SLOTS } прамежкаў браніравання на старонцы."
+        "У вас не можа быць больш за ${ MAX_BOOKING_SLOTS } слотаў браніравання на старонцы."
       ],
       "You get notified if your password or other data was leaked from a third-party service.": [
         "Апавяшчаць, калі адбудзецца ўцечка вашага пароля або іншых даных са старонняга сэрвісу."
@@ -6645,6 +6675,54 @@
       ],
       "You will loose all unsaved changes.": [
         "Вы страціце ўсе незахаваныя змены."
+      ],
+      "Appointment duration": [
+        "Працягласць сустрэчы"
+      ],
+      "Are you sure you want to delete this booking page?": [
+        "Вы сапраўды хочаце выдаліць гэту старонку браніравання?"
+      ],
+      "Booking page deleted": [
+        "Старонка браніравання выдалена"
+      ],
+      "Cannot create booking range in the past": [
+        "Немагчыма стварыць дыяпазон браніравання ў мінулым"
+      ],
+      "Host": [
+        "Арганізатар"
+      ],
+      "Location": [
+        "Месцазнаходжанне"
+      ],
+      "No appointments available this week": [
+        "Няма даступных сустрэч на гэтым тыдні"
+      ],
+      "People booking time with you will see ${ selectedCalendar.Email } as your contact address.": [
+        "Людзі, якія браніруюць у вас час, убачаць ${ selectedCalendar.Email } у якасці вашага кантактнага."
+      ],
+      "Powered by": [
+        "Працуе на базе"
+      ],
+      "Powered by ${ protonButton }": [
+        "Працуе на базе ${ protonButton }"
+      ],
+      "Previously booked events won't be deleted.": [
+        "Раней забраніраваныя падзеі не будуць выдалены."
+      ],
+      "Privacy by default": [
+        "Прадвызначаная прыватнасць"
+      ],
+      "Share this page to let others book time in your calendar. You can find and edit it in the sidebar under Booking pages.": [
+        "Абагуліце гэту старонку, каб іншыя маглі забраніраваць час у вашым календары. Вы зможаце знайсці і адрэдагаваць яе на бакавой панэлі ў раздзеле \"Старонкі браніравання\"."
+      ],
+      "Take control of your digital life": [
+        "Вазьміце пад кантроль сваё лічбавае жыццё"
+      ],
+      "This booking was made via ${ CALENDAR_APP_NAME }, part of ${ BRAND_NAME }'s suite of privacy-first products.": [
+        "Гэта браніраванне было зроблена праз ${ CALENDAR_APP_NAME }, частка набору прадуктаў ${ BRAND_NAME }, якая арыентавана на прыватнасць."
+      ],
+      "What do you want to call this booking page?": [
+        "Як вы хочаце назваць гэту старонку браніравання?"
       ]
     },
     "info": {
@@ -7345,6 +7423,15 @@
       ],
       "Zoom meeting": [
         "Сустрэча па Zoom"
+      ],
+      "Full name": [
+        "Поўнае імя"
+      ],
+      "Repeat weekly": [
+        "Паўтараць штотыдзень"
+      ],
+      "Unavailable": [
+        "Недаступна"
       ]
     },
     "label": {
@@ -7356,6 +7443,12 @@
       ],
       "Start time of the booking range": [
         "Час пачатку дыяпазону браніравання"
+      ],
+      "How long should an appointment last?": [
+        "Як доўга павінна доўжыцца сустрэча?"
+      ],
+      "What should people know before booking?": [
+        "Што людзям неабходна ведаць перад браніраваннем?"
       ]
     },
     "Label for contact group color": {
@@ -7515,6 +7608,9 @@
       ],
       "Reactivate subscription": [
         "Паўторная актывацыя падпіскі"
+      ],
+      "Booking pages": [
+        "Старонкі браніравання"
       ]
     },
     "Link label (optional)": {
@@ -8422,6 +8518,9 @@
         "Абагуленае сховішча (да ${ n } асоб)",
         "Абагуленае сховішча (да ${ n } асоб)",
         "Абагуленае сховішча (да ${ n } асоб)"
+      ],
+      "Existing ${ PLAN_NAMES[PLANS.VPN_BUSINESS] } benefits": [
+        "Існуючыя перавагі ${ PLAN_NAMES[PLANS.VPN_BUSINESS] }"
       ]
     },
     "new_plans: feature highlight": {
@@ -9573,7 +9672,7 @@
         "Падаткі"
       ],
       "terms and conditions": [
-        "ўмовы выкарыстання"
+        "ўмовамі выкарыстання"
       ],
       "The coupon is valid for ${ couponRedemptions } renewal.": [
         "Купон дзейнічае для ${ couponRedemptions } падаўжэння.",
@@ -9645,10 +9744,10 @@
         "У вас ужо ёсць падпіска на гэты тарыфны план. Вы можаце змяніць сваю падпіску на ${ subscriptionPlatform }."
       ],
       "You will soon be redirected to PayPal to verify your payment.": [
-        "Неўзабаве вы будзеце перанакіраваны на сайт PayPal для спраўджання плацяжу."
+        "Неўзабаве вы будзеце перанакіраваны на сайт PayPal для пацверджання плацяжу."
       ],
       "You will soon be redirected to verify your payment.": [
-        "Неўзабаве вы будзеце перанакіраваны для спраўджання вашага плацяжу."
+        "Неўзабаве вы будзеце перанакіраваны для пацверджання вашага плацяжу."
       ],
       "Your currency has been changed to euros (€) because SEPA bank transfers only support payments in euros.": [
         "Ваша валюта была зменена на еўра (€), таму што банкаўскія пераводы SEPA падтрымліваюць толькі плацяжы ў еўра."
@@ -9920,6 +10019,12 @@
       ],
       "ZIP code": [
         "Паштовы індэкс"
+      ],
+      "Email for booking confirmation": [
+        "Электронная пошта для пацвярджэння браніравання"
+      ],
+      "Name of attendee": [
+        "Імя ўдзельніка"
       ]
     },
     "Placeholder for contact group name": {
@@ -12421,6 +12526,15 @@
       ],
       "Discard changes?": [
         "Адхіліць змены?"
+      ],
+      "Appointment details": [
+        "Падрабязнасці сустрэчы"
+      ],
+      "Choose a time": [
+        "Выберыце час"
+      ],
+      "Delete booking page?": [
+        "Выдаліць старонку браніравання?"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
@@ -12676,7 +12790,7 @@
     },
     "wallet_signup_2024:app-switcher": {
       "A safer way to hold Bitcoin": [
-        "Больш бяспечны спосаб захоўвання Bitcoin"
+        "Бяспечны спосаб захоўвання Bitcoin"
       ]
     },
     "wallet_signup_2024:Bug category": {
@@ -13082,6 +13196,23 @@
       ],
       "Passcode:": [
         "Код доступу:"
+      ]
+    },
+    "Payments.ModificationWarning": {
+      "Are you sure you want to proceed?": [
+        "Вы сапраўды хочаце працягнуць?"
+      ],
+      "If you choose to modify your ${ planTitle } plan, you may lose access to some features.": [
+        "Вы можаце згубіць доступ да некаторый функцый, калі выберыце змену тарыфнага плана ${ planTitle }."
+      ],
+      "Keep ${ planTitle }": [
+        "Выйсці з ${ planTitle }"
+      ],
+      "Yes, I'm sure": [
+        "Так, я ўпэўнены"
+      ],
+      "Your plan includes this feature already.": [
+        "Ваш тарыфны план ужо ўключае гэту функцыю."
       ]
     }
   }

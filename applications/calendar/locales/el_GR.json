@@ -989,6 +989,21 @@
       ],
       "Edit booking page": [
         "Επεξεργασία σελίδας κρατήσεων"
+      ],
+      "Create a free account": [
+        "Δημιουργία δωρεάν λογαριασμού"
+      ],
+      "Go to the next available appointment": [
+        "Μετάβαση στο επόμενο διαθέσιμο ραντεβού"
+      ],
+      "See previous availability": [
+        "Δείτε την προηγούμενη διαθεσιμότητα"
+      ],
+      "See upcoming availability": [
+        "Δείτε την επερχόμενη διαθεσιμότητα"
+      ],
+      "Select ${ dateHeaderLongString } at ${ timeString }": [
+        "Επιλέξτε ${ dateHeaderLongString } στις ${ timeString }"
       ]
     },
     "action": {
@@ -1626,6 +1641,9 @@
       ],
       "Website access problem": [
         "Πρόβλημα πρόσβασης ιστοσελίδας"
+      ],
+      "Authenticator problem": [
+        "Πρόβλημα ταυτοποίησης"
       ]
     },
     "Button": {
@@ -4080,11 +4098,17 @@
       ],
       "ZIP code is required": [
         "Απαιτείται ταχυδρομικός κώδικας"
+      ],
+      "You cannot enter the organizer email": [
+        "Δεν μπορείτε να εισάγετε το email του διοργανωτή"
       ]
     },
     "error": {
       "Please sign in with the same Gmail address you originally connected": [
         "Παρακαλούμε συνδεθείτε με την ίδια διεύθυνση Gmail που συνδεθήκατε αρχικά."
+      ],
+      "Please sign in with a Gmail address that already forwards to ${ MAIL_APP_NAME }": [
+        "Παρακαλώ συνδεθείτε με μια διεύθυνση Gmail που ήδη προωθεί στο ${ MAIL_APP_NAME }"
       ]
     },
     "Error accepting calendar invitation": {
@@ -4629,6 +4653,9 @@
     "Form": {
       "Your contact info": [
         "Τα στοιχεία επικοινωνίας σας"
+      ],
+      "Confirm your booking": [
+        "Επιβεβαιώστε την κράτησή σας"
       ]
     },
     "Google Meet": {
@@ -6493,6 +6520,39 @@
       ],
       "You will loose all unsaved changes.": [
         "Θα χάσετε όλες τις μη αποθηκευμένες αλλαγές."
+      ],
+      "Are you sure you want to delete this booking page?": [
+        "Θέλετε σίγουρα να διαγράψετε αυτήν τη σελίδα κράτησης;"
+      ],
+      "Booking page deleted": [
+        "Η σελίδα κρατήσεων διαγράφηκε"
+      ],
+      "Cannot create booking range in the past": [
+        "Δεν είναι δυνατή η δημιουργία εύρους κράτησης στο παρελθόν"
+      ],
+      "No appointments available this week": [
+        "Δεν υπάρχουν διαθέσιμα ραντεβού αυτή την εβδομάδα"
+      ],
+      "People booking time with you will see ${ selectedCalendar.Email } as your contact address.": [
+        "Όσοι κλείσουν ραντεβού μαζί σας θα βλέπουν το ${ selectedCalendar.Email } ως τη διεύθυνση επικοινωνίας σας."
+      ],
+      "Powered by": [
+        "Παρέχεται από"
+      ],
+      "Previously booked events won't be deleted.": [
+        "Οι εκδηλώσεις που έχουν ήδη προγραμματιστεί δε θα διαγραφούν."
+      ],
+      "Share this page to let others book time in your calendar. You can find and edit it in the sidebar under Booking pages.": [
+        "Κοινοποιήστε αυτή τη σελίδα για να επιτρέψετε σε άλλους να κλείσουν ραντεβού στο ημερολόγιό σας. Μπορείτε να το βρείτε και να το επεξεργαστείτε στην πλαϊνή στήλη, στην ενότητα Σελίδες Κρατήσεων."
+      ],
+      "Take control of your digital life": [
+        "Πάρτε τον έλεγχο της ψηφιακής σας ζωής"
+      ],
+      "This booking was made via ${ CALENDAR_APP_NAME }, part of ${ BRAND_NAME }'s suite of privacy-first products.": [
+        "Αυτή η κράτηση έγινε μέσω ${ CALENDAR_APP_NAME }, μέρος της σουίτας προϊόντων της ${ BRAND_NAME } που δίνουν προτεραιότητα στην ιδιωτικότητα."
+      ],
+      "What do you want to call this booking page?": [
+        "Πώς θέλετε να ονομάσετε αυτήν τη σελίδα κράτησης;"
       ]
     },
     "info": {
@@ -7181,6 +7241,15 @@
       ],
       "Zoom meeting": [
         "Τηλεδιάσκεψη Zoom"
+      ],
+      "Full name": [
+        "Ονοματεπώνυμο"
+      ],
+      "Repeat weekly": [
+        "Επανάληψη εβδομαδιαία"
+      ],
+      "Unavailable": [
+        "Μη διαθέσιμο"
       ]
     },
     "label": {
@@ -7192,6 +7261,12 @@
       ],
       "Start time of the booking range": [
         "Ώρα έναρξης του εύρους κράτησης"
+      ],
+      "How long should an appointment last?": [
+        "Πόσο πρέπει να διαρκεί ένα ραντεβού;"
+      ],
+      "What should people know before booking?": [
+        "Τι πρέπει να γνωρίζουν οι άνθρωποι πριν κάνουν κράτηση;"
       ]
     },
     "Label for contact group color": {
@@ -7351,6 +7426,9 @@
       ],
       "Reactivate subscription": [
         "Επανενεργοποίηση συνδρομής"
+      ],
+      "Booking pages": [
+        "Σελίδες κρατήσεων"
       ]
     },
     "Link label (optional)": {
@@ -9623,6 +9701,12 @@
       ],
       "ZIP code": [
         "Ταχυδρομικός κώδικας"
+      ],
+      "Email for booking confirmation": [
+        "Email για επιβεβαίωση κράτησης"
+      ],
+      "Name of attendee": [
+        "Όνομα συμμετέχοντος"
       ]
     },
     "Placeholder for contact group name": {
@@ -11143,6 +11227,12 @@
       ],
       "You have successfully unsubscribed": [
         "Διαγραφήκατε με επιτυχία"
+      ],
+      "Booking page created": [
+        "Η σελίδα κρατήσεων δημιουργήθηκε"
+      ],
+      "Booking page created and link copied to clipboard": [
+        "Η σελίδα κράτησης δημιουργήθηκε και ο σύνδεσμος αντιγράφηκε στο πρόχειρο."
       ]
     },
     "Suffix": {
@@ -12019,6 +12109,12 @@
       ],
       "Discard changes?": [
         "Απόρριψη αλλαγών;"
+      ],
+      "Choose a time": [
+        "Επιλογή ώρας"
+      ],
+      "Delete booking page?": [
+        "Διαγραφή σελίδας κρατήσεων;"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {

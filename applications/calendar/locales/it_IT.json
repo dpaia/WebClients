@@ -989,6 +989,12 @@
       ],
       "Edit booking page": [
         "Modifica pagina di prenotazione"
+      ],
+      "Go to the next available appointment": [
+        "Vai al prossimo appuntamento disponibile"
+      ],
+      "See upcoming availability": [
+        "Visualizza la prossima disponibilità"
       ]
     },
     "action": {
@@ -1626,6 +1632,9 @@
       ],
       "Website access problem": [
         "Problema di accesso al sito web"
+      ],
+      "Authenticator problem": [
+        "Problema con l'autenticatore"
       ]
     },
     "Button": {
@@ -4085,6 +4094,9 @@
     "error": {
       "Please sign in with the same Gmail address you originally connected": [
         "Accedi con lo stesso indirizzo email che hai usato originariamente"
+      ],
+      "Please sign in with a Gmail address that already forwards to ${ MAIL_APP_NAME }": [
+        "Accedi con un indirizzo Gmail che già inoltra a ${ MAIL_APP_NAME }"
       ]
     },
     "Error accepting calendar invitation": {
@@ -6493,6 +6505,15 @@
       ],
       "You will loose all unsaved changes.": [
         "Perderai tutte le modifiche non salvate."
+      ],
+      "No appointments available this week": [
+        "Nessun appuntamento disponibile questa settimana"
+      ],
+      "People booking time with you will see ${ selectedCalendar.Email } as your contact address.": [
+        "Le persone che prenotano un appuntamento con te vedranno ${ selectedCalendar.Email } come tuo indirizzo di contatto."
+      ],
+      "Previously booked events won't be deleted.": [
+        "Gli eventi prenotati in precedenza non saranno eliminati."
       ]
     },
     "info": {
@@ -7192,6 +7213,9 @@
       ],
       "Start time of the booking range": [
         "Ora di inizio dell'intervallo di prenotazione"
+      ],
+      "How long should an appointment last?": [
+        "Quanto dovrebbe durare un appuntamento?"
       ]
     },
     "Label for contact group color": {
@@ -7351,6 +7375,9 @@
       ],
       "Reactivate subscription": [
         "Riattiva l'abbonamento"
+      ],
+      "Booking pages": [
+        "Pagine di prenotazione"
       ]
     },
     "Link label (optional)": {
@@ -8197,7 +8224,7 @@
         "Vantaggi esistenti del piano ${ PLAN_NAMES[PLANS.VPN_BUSINESS] }"
       ],
       "Vault sharing with up to ${ n } person": [
-        "Condivisione delle casseforti (fino a ${ n } persona",
+        "Condivisione delle casseforti fino a ${ n } persona",
         "Condivisione delle casseforti fino a ${ n } persone"
       ]
     },

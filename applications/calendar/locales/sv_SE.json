@@ -989,6 +989,18 @@
       ],
       "Split current booking range": [
         "Dela nuvarande bokningsintervall"
+      ],
+      "Create a free account": [
+        "Skapa ett gratis konto"
+      ],
+      "See previous availability": [
+        "Se tidigare tillgänglighet"
+      ],
+      "See upcoming availability": [
+        "Se kommande tillgänglighet"
+      ],
+      "Select ${ dateHeaderLongString } at ${ timeString }": [
+        "Välj ${ dateHeaderLongString } kl. ${ timeString }"
       ]
     },
     "action": {
@@ -1617,6 +1629,9 @@
       ],
       "Website access problem": [
         "Problem med åtkomst till webbplats"
+      ],
+      "Authenticator problem": [
+        "Autentiseringsproblem"
       ]
     },
     "Button": {
@@ -4059,11 +4074,17 @@
       ],
       "ZIP code is required": [
         "Postnummer är obligatoriskt"
+      ],
+      "You cannot enter the organizer email": [
+        "Du kan inte ange organisatörens e-post"
       ]
     },
     "error": {
       "Please sign in with the same Gmail address you originally connected": [
         "Logga in med samma Gmail-adress som du ursprungligen anslöt"
+      ],
+      "Please sign in with a Gmail address that already forwards to ${ MAIL_APP_NAME }": [
+        "Logga in med en Gmail-adress som redan vidarebefordrar till ${ MAIL_APP_NAME }"
       ]
     },
     "Error accepting calendar invitation": {
@@ -4608,6 +4629,9 @@
     "Form": {
       "Your contact info": [
         "Din kontaktinformation"
+      ],
+      "Confirm your booking": [
+        "Bekräfta din bokning"
       ]
     },
     "Google Meet": {
@@ -6460,6 +6484,21 @@
       ],
       "You will loose all unsaved changes.": [
         "Du kommer förlora alla osparade ändringar."
+      ],
+      "Are you sure you want to delete this booking page?": [
+        "Är du säker på att du vill ta bort denna bokningssida?"
+      ],
+      "Booking page deleted": [
+        "Bokningssida borttagen"
+      ],
+      "Previously booked events won't be deleted.": [
+        "Tidigare bokade händelser kommer inte att tas bort."
+      ],
+      "Take control of your digital life": [
+        "Ta kontroll över ditt digitala liv"
+      ],
+      "What do you want to call this booking page?": [
+        "Vad vill du kalla denna bokningssida?"
       ]
     },
     "info": {
@@ -7148,6 +7187,15 @@
       ],
       "Zoom meeting": [
         "Zoom-möte"
+      ],
+      "Full name": [
+        "Fullständigt namn"
+      ],
+      "Repeat weekly": [
+        "Upprepa varje vecka"
+      ],
+      "Unavailable": [
+        "Otillgänglig"
       ]
     },
     "label": {
@@ -7159,6 +7207,9 @@
       ],
       "Start time of the booking range": [
         "Starttid för bokningsintervallet"
+      ],
+      "What should people know before booking?": [
+        "Vad bör folk veta innan de bokar?"
       ]
     },
     "Label for contact group color": {
@@ -7318,6 +7369,9 @@
       ],
       "Reactivate subscription": [
         "Återaktivera prenumeration"
+      ],
+      "Booking pages": [
+        "Bokningssidor"
       ]
     },
     "Link label (optional)": {
@@ -9584,6 +9638,12 @@
       ],
       "ZIP code": [
         "Postnummer"
+      ],
+      "Email for booking confirmation": [
+        "E-post för bokningsbekräftelse"
+      ],
+      "Name of attendee": [
+        "Namn på deltagare"
       ]
     },
     "Placeholder for contact group name": {
@@ -11977,6 +12037,12 @@
       ],
       "Host": [
         "Värd"
+      ],
+      "Choose a time": [
+        "Välj en tid"
+      ],
+      "Delete booking page?": [
+        "Ta bort bokningssida?"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {

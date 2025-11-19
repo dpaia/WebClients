@@ -989,6 +989,21 @@
       ],
       "Edit booking page": [
         "Buchungsseite bearbeiten"
+      ],
+      "Create a free account": [
+        "Kostenloses Konto erstellen"
+      ],
+      "Go to the next available appointment": [
+        "Gehe zum nächsten verfügbaren Termin"
+      ],
+      "See previous availability": [
+        "Vorherige Verfügbarkeit anzeigen"
+      ],
+      "See upcoming availability": [
+        "Kommende Verfügbarkeit anzeigen"
+      ],
+      "Select ${ dateHeaderLongString } at ${ timeString }": [
+        "Wähle ${ dateHeaderLongString } um ${ timeString }"
       ]
     },
     "action": {
@@ -1626,6 +1641,9 @@
       ],
       "Website access problem": [
         "Zugriffsproblem auf eine Website"
+      ],
+      "Authenticator problem": [
+        "Authenticator-Problem"
       ]
     },
     "Button": {
@@ -4080,11 +4098,17 @@
       ],
       "ZIP code is required": [
         "Eine Postleitzahl ist erforderlich"
+      ],
+      "You cannot enter the organizer email": [
+        "Du kannst die E-Mail-Adresse des Organisators nicht eingeben."
       ]
     },
     "error": {
       "Please sign in with the same Gmail address you originally connected": [
         "Bitte melde dich mit derselben Gmail-Adresse an, die du ursprünglich verbunden hast."
+      ],
+      "Please sign in with a Gmail address that already forwards to ${ MAIL_APP_NAME }": [
+        "Bitte melde dich mit einer Gmail-Adresse an, die bereits an ${ MAIL_APP_NAME } weiterleitet."
       ]
     },
     "Error accepting calendar invitation": {
@@ -4629,6 +4653,9 @@
     "Form": {
       "Your contact info": [
         "Deine Kontaktdaten"
+      ],
+      "Confirm your booking": [
+        "Deine Buchung bestätigen"
       ]
     },
     "Google Meet": {
@@ -6493,6 +6520,39 @@
       ],
       "You will loose all unsaved changes.": [
         "Alle nicht gespeicherten Änderungen gehen verloren."
+      ],
+      "Are you sure you want to delete this booking page?": [
+        "Möchtest du diese Buchungsseite wirklich löschen?"
+      ],
+      "Booking page deleted": [
+        "Buchungsseite gelöscht"
+      ],
+      "Cannot create booking range in the past": [
+        "Du kannst keinen Buchungszeitraum in der Vergangenheit erstellen."
+      ],
+      "No appointments available this week": [
+        "Diese Woche sind keine Termine verfügbar"
+      ],
+      "People booking time with you will see ${ selectedCalendar.Email } as your contact address.": [
+        "Personen, die Zeit mit dir buchen, werden ${ selectedCalendar.Email } als deine Kontaktadresse sehen."
+      ],
+      "Powered by": [
+        "Unterstützt von"
+      ],
+      "Previously booked events won't be deleted.": [
+        "Zuvor gebuchte Termine werden nicht gelöscht."
+      ],
+      "Share this page to let others book time in your calendar. You can find and edit it in the sidebar under Booking pages.": [
+        "Teile diese Seite, damit andere Termine in deinem Kalender buchen können. Du findest und bearbeitest sie in der Seitenleiste unter Buchungsseiten."
+      ],
+      "Take control of your digital life": [
+        "Die Kontrolle über dein digitales Leben übernehmen"
+      ],
+      "This booking was made via ${ CALENDAR_APP_NAME }, part of ${ BRAND_NAME }'s suite of privacy-first products.": [
+        "Diese Buchung wurde über ${ CALENDAR_APP_NAME } vorgenommen, einem Teil der datenschutzfreundlichen Produktpalette von ${ BRAND_NAME }."
+      ],
+      "What do you want to call this booking page?": [
+        "Wie möchtest du diese Buchungsseite nennen?"
       ]
     },
     "info": {
@@ -7181,6 +7241,15 @@
       ],
       "Zoom meeting": [
         "Zoom-Meeting"
+      ],
+      "Full name": [
+        "Vollständiger Name"
+      ],
+      "Repeat weekly": [
+        "Wöchentlich wiederholen"
+      ],
+      "Unavailable": [
+        "Nicht verfügbar"
       ]
     },
     "label": {
@@ -7192,6 +7261,12 @@
       ],
       "Start time of the booking range": [
         "Startzeit des Buchungszeitraums"
+      ],
+      "How long should an appointment last?": [
+        "Wie lange sollte ein Termin dauern?"
+      ],
+      "What should people know before booking?": [
+        "Was sollten die Personen vor dem Buchen wissen?"
       ]
     },
     "Label for contact group color": {
@@ -7351,6 +7426,9 @@
       ],
       "Reactivate subscription": [
         "Abonnement reaktivieren"
+      ],
+      "Booking pages": [
+        "Buchungsseiten"
       ]
     },
     "Link label (optional)": {
@@ -9623,6 +9701,12 @@
       ],
       "ZIP code": [
         "Postleitzahl"
+      ],
+      "Email for booking confirmation": [
+        "E-Mail zur Buchungsbestätigung"
+      ],
+      "Name of attendee": [
+        "Name des Teilnehmers"
       ]
     },
     "Placeholder for contact group name": {
@@ -12019,6 +12103,12 @@
       ],
       "Discard changes?": [
         "Änderungen verwerfen?"
+      ],
+      "Choose a time": [
+        "Uhrzeit wählen"
+      ],
+      "Delete booking page?": [
+        "Buchungsseite löschen?"
       ]
     },
     "Title (number of minutes/hours/days/weeks)": {
