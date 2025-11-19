@@ -2351,6 +2351,9 @@
       ],
       "Website access problem": [
         "Problem med åtkomst till webbplats"
+      ],
+      "Authenticator problem": [
+        "Autentiseringsproblem"
       ]
     },
     "Button": {
@@ -5170,6 +5173,9 @@
     "error": {
       "Please sign in with the same Gmail address you originally connected": [
         "Logga in med samma Gmail-adress som du ursprungligen anslöt"
+      ],
+      "Please sign in with a Gmail address that already forwards to ${ MAIL_APP_NAME }": [
+        "Logga in med en Gmail-adress som redan vidarebefordrar till ${ MAIL_APP_NAME }"
       ]
     },
     "Error adding participants to a calendar event": {

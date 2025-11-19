@@ -2361,6 +2361,9 @@
       ],
       "Website access problem": [
         "Problema di accesso al sito web"
+      ],
+      "Authenticator problem": [
+        "Problema con l'autenticatore"
       ]
     },
     "Button": {
@@ -5186,6 +5189,9 @@
     "error": {
       "Please sign in with the same Gmail address you originally connected": [
         "Accedi con lo stesso indirizzo email che hai usato originariamente"
+      ],
+      "Please sign in with a Gmail address that already forwards to ${ MAIL_APP_NAME }": [
+        "Accedi con un indirizzo Gmail che già inoltra a ${ MAIL_APP_NAME }"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -11176,7 +11182,7 @@
         "Vantaggi esistenti del piano ${ PLAN_NAMES[PLANS.VPN_BUSINESS] }"
       ],
       "Vault sharing with up to ${ n } person": [
-        "Condivisione delle casseforti (fino a ${ n } persona",
+        "Condivisione delle casseforti fino a ${ n } persona",
         "Condivisione delle casseforti fino a ${ n } persone"
       ]
     },

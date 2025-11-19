@@ -168,7 +168,7 @@
         "Copie ascunsă"
       ],
       "Block": [
-        "Blocare"
+        "Blocate"
       ],
       "Block email tracking": [
         "Blocare urmărire mesaje"
@@ -2369,6 +2369,9 @@
       ],
       "Website access problem": [
         "Problemă accesare site web"
+      ],
+      "Authenticator problem": [
+        "Problemă autentificator"
       ]
     },
     "Button": {
@@ -5214,6 +5217,9 @@
     "error": {
       "Please sign in with the same Gmail address you originally connected": [
         "Conectați-vă cu aceeași adresă Gmail cu care v-ați conectat inițial."
+      ],
+      "Please sign in with a Gmail address that already forwards to ${ MAIL_APP_NAME }": [
+        "Conectați-vă cu o adresă Gmail care deja se redirecționează către ${ MAIL_APP_NAME }"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -9086,6 +9092,9 @@
       ],
       "We’ve upgraded your ${ DRIVE_APP_NAME } storage to 5GB. Keep your important files and photos encrypted.": [
         "V-am mărit spațiul de stocare al ${ DRIVE_APP_NAME } la 5 GiB. Păstrați-vă fișierele și fotografiile importante criptate."
+      ],
+      "Keep your login and credit card details safe but always on hand by adding them to ${ PASS_APP_NAME }. It's free, and included with your ${ BRAND_NAME } Account.": [
+        "Păstrați-vă datele de conectare și cardurile de plăți în siguranță, dar întotdeauna la îndemână, adăugându-le la ${ PASS_APP_NAME }. Este gratuit și este inclus în contul ${ BRAND_NAME }."
       ]
     },
     "info": {

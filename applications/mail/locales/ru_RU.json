@@ -13802,6 +13802,12 @@
       ],
       "You have successfully unsubscribed": [
         "Подписка отменена"
+      ],
+      "${ elementsCount } message removed from Starred.": [
+        "С ${ elementsCount } сообщения снята звёздочка.",
+        "С ${ elementsCount } сообщений сняты звёздочки.",
+        "С ${ elementsCount } сообщений сняты звёздочки.",
+        "С ${ elementsCount } сообщений сняты звёздочки."
       ]
     },
     "Success notification": {

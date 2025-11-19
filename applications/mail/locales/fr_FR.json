@@ -2360,6 +2360,9 @@
       ],
       "Website access problem": [
         "Problème d'accès au site web"
+      ],
+      "Authenticator problem": [
+        "Problème d'authentification"
       ]
     },
     "Button": {
@@ -5185,6 +5188,9 @@
     "error": {
       "Please sign in with the same Gmail address you originally connected": [
         "Veuillez vous connecter avec la même adresse Gmail que celle que vous avez connectée à l'origine"
+      ],
+      "Please sign in with a Gmail address that already forwards to ${ MAIL_APP_NAME }": [
+        "Veuillez vous connecter avec une adresse Gmail qui transfère déjà vers ${ MAIL_APP_NAME }"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -8950,6 +8956,9 @@
       ],
       "Addresses settings": [
         "Paramètres des adresses"
+      ],
+      "Keep your login and credit card details safe but always on hand by adding them to ${ PASS_APP_NAME }. It's free, and included with your ${ BRAND_NAME } Account.": [
+        "Gardez vos informations de connexion et cartes de paiement en sécurité et toujours à portée de main en les ajoutant à ${ PASS_APP_NAME }. C'est gratuit et inclus dans votre compte ${ BRAND_NAME }."
       ]
     },
     "info": {
@@ -16292,6 +16301,23 @@
       ],
       "Passcode:": [
         "Code d’accès :"
+      ]
+    },
+    "Payments.ModificationWarning": {
+      "Are you sure you want to proceed?": [
+        "Êtes-vous sûr de vouloir continuer ?"
+      ],
+      "If you choose to modify your ${ planTitle } plan, you may lose access to some features.": [
+        "Si vous choisissez de modifier votre abonnement ${ planTitle }, vous pourriez perdre l'accès à certaines fonctionnalités."
+      ],
+      "Keep ${ planTitle }": [
+        "Conserver ${ planTitle }"
+      ],
+      "Yes, I'm sure": [
+        "Oui, j'en suis sûr"
+      ],
+      "Your plan includes this feature already.": [
+        "Votre abonnement inclut déjà cette fonctionnalité."
       ]
     }
   }

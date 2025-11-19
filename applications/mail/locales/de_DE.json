@@ -2361,6 +2361,9 @@
       ],
       "Website access problem": [
         "Zugriffsproblem auf eine Website"
+      ],
+      "Authenticator problem": [
+        "Authenticator-Problem"
       ]
     },
     "Button": {
@@ -5186,6 +5189,9 @@
     "error": {
       "Please sign in with the same Gmail address you originally connected": [
         "Bitte melde dich mit derselben Gmail-Adresse an, die du ursprünglich verbunden hast."
+      ],
+      "Please sign in with a Gmail address that already forwards to ${ MAIL_APP_NAME }": [
+        "Bitte melde dich mit einer Gmail-Adresse an, die bereits an ${ MAIL_APP_NAME } weiterleitet."
       ]
     },
     "Error adding participants to a calendar event": {
@@ -8951,6 +8957,9 @@
       ],
       "Addresses settings": [
         "Adresseneinstellungen"
+      ],
+      "Keep your login and credit card details safe but always on hand by adding them to ${ PASS_APP_NAME }. It's free, and included with your ${ BRAND_NAME } Account.": [
+        "Bewahre deine Anmeldedaten und Kreditkartendaten sicher, aber immer griffbereit auf, indem du sie zu ${ PASS_APP_NAME } hinzufügst. Dies ist kostenlos und in deinem ${ BRAND_NAME }-Konto enthalten."
       ]
     },
     "info": {

@@ -2388,6 +2388,9 @@
       ],
       "Website access problem": [
         "Праблема з доступам да вэб-сайта"
+      ],
+      "Authenticator problem": [
+        "Праблема з аўтэнтыфікатарам"
       ]
     },
     "Button": {
@@ -2826,6 +2829,9 @@
       ],
       "High-speed chats and advanced AI features.": [
         "Высакахуткасныя чаты і перадавыя функцыі ШІ."
+      ],
+      "Advanced account and network security in one plan": [
+        "Пашыраная бяспека ўліковага запісу і сеткі ў адным тарыфным плане"
       ]
     },
     "color": {
@@ -5250,6 +5256,9 @@
     "error": {
       "Please sign in with the same Gmail address you originally connected": [
         "Увайдзіце з тым жа адрасам Gmail, які вы першапачаткова падключылі"
+      ],
+      "Please sign in with a Gmail address that already forwards to ${ MAIL_APP_NAME }": [
+        "Увайдзіце з адрасам Gmail, які ўжо перасылае лісты ў ${ MAIL_APP_NAME }"
       ]
     },
     "Error adding participants to a calendar event": {
@@ -9229,6 +9238,9 @@
       ],
       "Addresses settings": [
         "Налады адрасоў"
+      ],
+      "Keep your login and credit card details safe but always on hand by adding them to ${ PASS_APP_NAME }. It's free, and included with your ${ BRAND_NAME } Account.": [
+        "Захоўвайце свае ўліковыя даныя і інфармацыю аб крэдытнай картцы ў бяспецы, але заўсёды пад рукой, дадаўшы іх у ${ PASS_APP_NAME }. Гэта бясплатна і ўваходзіць у ваш уліковы запіс ${ BRAND_NAME }."
       ]
     },
     "info": {
@@ -11531,6 +11543,9 @@
         "Абагуленае сховішча (да ${ n } асоб)",
         "Абагуленае сховішча (да ${ n } асоб)",
         "Абагуленае сховішча (да ${ n } асоб)"
+      ],
+      "Existing ${ PLAN_NAMES[PLANS.VPN_BUSINESS] } benefits": [
+        "Існуючыя перавагі ${ PLAN_NAMES[PLANS.VPN_BUSINESS] }"
       ]
     },
     "new_plans: feature highlight": {
@@ -12627,7 +12642,7 @@
         "Падаткі"
       ],
       "terms and conditions": [
-        "ўмовы выкарыстання"
+        "ўмовамі выкарыстання"
       ],
       "The coupon is valid for ${ couponRedemptions } renewal.": [
         "Купон дзейнічае для ${ couponRedemptions } падаўжэння.",
@@ -12699,10 +12714,10 @@
         "У вас ужо ёсць падпіска на гэты тарыфны план. Вы можаце змяніць сваю падпіску на ${ subscriptionPlatform }."
       ],
       "You will soon be redirected to PayPal to verify your payment.": [
-        "Неўзабаве вы будзеце перанакіраваны на сайт PayPal для спраўджання плацяжу."
+        "Неўзабаве вы будзеце перанакіраваны на сайт PayPal для пацверджання плацяжу."
       ],
       "You will soon be redirected to verify your payment.": [
-        "Неўзабаве вы будзеце перанакіраваны для спраўджання вашага плацяжу."
+        "Неўзабаве вы будзеце перанакіраваны для пацверджання вашага плацяжу."
       ],
       "Your currency has been changed to euros (€) because SEPA bank transfers only support payments in euros.": [
         "Ваша валюта была зменена на еўра (€), таму што банкаўскія пераводы SEPA падтрымліваюць толькі плацяжы ў еўра."
@@ -16533,7 +16548,7 @@
     },
     "wallet_signup_2024:app-switcher": {
       "A safer way to hold Bitcoin": [
-        "Больш бяспечны спосаб захоўвання Bitcoin"
+        "Бяспечны спосаб захоўвання Bitcoin"
       ]
     },
     "wallet_signup_2024:Bug category": {
@@ -16948,6 +16963,23 @@
       ],
       "Passcode:": [
         "Код доступу:"
+      ]
+    },
+    "Payments.ModificationWarning": {
+      "Are you sure you want to proceed?": [
+        "Вы сапраўды хочаце працягнуць?"
+      ],
+      "If you choose to modify your ${ planTitle } plan, you may lose access to some features.": [
+        "Вы можаце згубіць доступ да некаторый функцый, калі выберыце змену тарыфнага плана ${ planTitle }."
+      ],
+      "Keep ${ planTitle }": [
+        "Выйсці з ${ planTitle }"
+      ],
+      "Yes, I'm sure": [
+        "Так, я ўпэўнены"
+      ],
+      "Your plan includes this feature already.": [
+        "Ваш тарыфны план ужо ўключае гэту функцыю."
       ]
     }
   }
