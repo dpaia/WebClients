@@ -6,9 +6,7 @@ EVAL_DIR="/ee-bench/eval"
 SUBMISSION_DIR="/ee-bench/submission"
 
 # --- Environment from Dockerfile (rendered from dockerfile_env_vars) ---
-export DEBIAN_FRONTEND="noninteractive"
-export PYTEST_ADDOPTS="--tb=short -v --continue-on-collection-errors --reruns=3"
-export UV_HTTP_TIMEOUT="60"
+
 
 # --- Reset to base commit ---
 cd "$PROJECT_ROOT"
