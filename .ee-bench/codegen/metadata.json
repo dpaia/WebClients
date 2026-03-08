@@ -1,0 +1,44 @@
+{
+  "version": "1.0",
+  "instance_id": "instance_protonmail__webclients-1501eb765873b2884b6f1944fd242ecfc9d6b103",
+  "base_commit": "9b35b414f77c6165550550fdda8b25bbc74aac7b",
+  "benchmark_type": "codegen",
+  "fail_to_pass": [
+    "components/smartBanner/SmartBanner.test.tsx | @proton/components/components/SmartBanner given app is proton-calendar, isAndroid is false, and isIos is false, should not render SmartBanner",
+    "components/smartBanner/SmartBanner.test.tsx | @proton/components/components/SmartBanner given app is proton-calendar, isAndroid is true, and isIos is false, should correctly render SmartBanner",
+    "components/smartBanner/SmartBanner.test.tsx | @proton/components/components/SmartBanner given app is proton-calendar, isAndroid is false, and isIos is true, should correctly render SmartBanner",
+    "components/smartBanner/SmartBanner.test.tsx | @proton/components/components/SmartBanner given app is proton-mail, isAndroid is false, and isIos is false, should not render SmartBanner",
+    "components/smartBanner/SmartBanner.test.tsx | @proton/components/components/SmartBanner given app is proton-mail, isAndroid is true, and isIos is false, should correctly render SmartBanner",
+    "components/smartBanner/SmartBanner.test.tsx | @proton/components/components/SmartBanner given app is proton-mail, isAndroid is false, and isIos is true, should correctly render SmartBanner",
+    "components/smartBanner/SmartBanner.test.tsx | @proton/components/components/SmartBanner given title is Hawkeye and subtitle is The coolest Avenger, should render SmartBanner with correct text",
+    "components/smartBanner/SmartBanner.test.tsx | @proton/components/components/SmartBanner given title is undefined and subtitle is undefined, should render SmartBanner with correct text",
+    "components/smartBanner/SmartBanner.test.tsx | @proton/components/components/SmartBanner given mobile proton-calendar web user has used the native mobile proton-calendar app, should not render SmartBanner",
+    "components/smartBanner/SmartBanner.test.tsx | @proton/components/components/SmartBanner given mobile proton-mail web user has used the native mobile proton-mail app, should not render SmartBanner"
+  ],
+  "pass_to_pass": [],
+  "evaluation": {
+    "timeout_seconds": 600,
+    "selected_test_files_to_run": [
+      "components/smartBanner/SmartBanner.test.ts",
+      "packages/components/components/smartBanner/SmartBanner.test.tsx"
+    ]
+  },
+  "environment": {
+    "project_root": "/app",
+    "dockerhub_tag": "protonmail.webclients-protonmail__webclients-1501eb765873b2884b6f1944fd242ecfc9d6b103",
+    "before_repo_set_cmd": "git reset --hard 9b35b414f77c6165550550fdda8b25bbc74aac7b\ngit clean -fd \ngit checkout 9b35b414f77c6165550550fdda8b25bbc74aac7b \ngit checkout 1501eb765873b2884b6f1944fd242ecfc9d6b103 -- packages/components/components/smartBanner/SmartBanner.test.tsx"
+  },
+  "fields": {
+    "repo": "protonmail/webclients",
+    "repo_language": "js",
+    "issue_specificity": [
+      "ui_ux_feat",
+      "mobile_feat"
+    ],
+    "issue_categories": [
+      "front_end_knowledge",
+      "mobile_knowledge",
+      "ui_ux_knowledge"
+    ]
+  }
+}
