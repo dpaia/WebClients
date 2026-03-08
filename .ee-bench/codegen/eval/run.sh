@@ -14,7 +14,11 @@ export UV_HTTP_TIMEOUT="60"
 cd "$PROJECT_ROOT"
 git reset --hard "9b35b414f77c6165550550fdda8b25bbc74aac7b" 2>/dev/null
 git checkout "9b35b414f77c6165550550fdda8b25bbc74aac7b" 2>/dev/null
-git clean -fdx 2>/dev/null
+git clean -fd 2>/dev/null
+
+# --- Fetch commits referenced by before_repo_set_cmd ---
+
+git fetch origin 1501eb765873b2884b6f1944fd242ecfc9d6b103 2>/dev/null || true
 
 # --- before_repo_set_cmd (from HF metadata, may be empty) ---
 git reset --hard 9b35b414f77c6165550550fdda8b25bbc74aac7b
